@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mapúa Building Utilities Reviewer</title>
+    <link rel="stylesheet" href="main/src/style.css">
+</head>
+<body>
+    <button class="theme-toggle" id="theme-toggle" onclick="toggleTheme()" aria-label="Toggle dark mode">
+        <span class="theme-icon-light">☀️</span>
+        <span class="theme-icon-dark">🌙</span>
+    </button>
+
+    <div id="app">
+        <div id="screen-start" class="screen active">
+            <div class="start-card fade-in-up">
+                <div class="start-icon">📋</div>
+                <h1>Building Utilities Reviewer</h1>
+                <p class="start-subtitle">Mapúa University</p>
+                <p class="start-desc">Test your knowledge with this interactive quiz covering plumbing, fire protection, HVAC, electrical systems, and more.</p>
+                <div class="start-meta">
+                    <span id="total-questions">110</span> questions available
+                </div>
+                <div class="start-options">
+                    <label class="option-label">Questions to take</label>
+                    <select class="count-select" id="count-select">
+                        <option value="10">10</option>
+                        <option value="20" selected>20</option>
+                        <option value="30">30</option>
+                        <option value="50">50</option>
+                        <option value="0">All 110</option>
+                    </select>
+                </div>
+                <button class="btn btn-primary btn-large" onclick="startQuiz()">Begin Quiz</button>
+            </div>
+        </div>
+
+        <div id="screen-quiz" class="screen">
+            <header class="quiz-header">
+                <div class="progress-container">
+                    <div class="progress-track">
+                        <div class="progress-fill" id="progress-bar"></div>
+                    </div>
+                    <span class="progress-text" id="question-number">Question 1 of 20</span>
+                </div>
+                <div class="header-actions">
+                    <button class="btn btn-small btn-ghost" id="skip-btn" onclick="skipQuestion()">Skip</button>
+                </div>
+            </header>
+            <main class="quiz-main" id="quiz-main">
+                <div class="question-card question-enter" id="question-card">
+                    <div class="question-text" id="question-text"></div>
+                    <div class="choices-container" id="choices"></div>
+                    <div class="feedback" id="feedback"></div>
+                </div>
+                <div class="popup-panel" id="popup-panel">
+                    <div class="popup-panel-header">
+                        <div class="popup-panel-title">Incorrect</div>
+                        <button class="popup-panel-close" onclick="dismissPopup()">✕</button>
+                    </div>
+                    <div class="popup-panel-body">
+                        <div class="search-result">
+                            <div class="search-term">Your answer</div>
+                            <div class="search-answer" id="popup-wrong-answer"></div>
+                            <div class="search-def" id="popup-wrong-def"></div>
+                            <a class="search-link" id="search-link-wrong" target="_blank" rel="noopener">Search on Google →</a>
+                        </div>
+                        <div class="search-result correct-result">
+                            <div class="search-term">Correct answer</div>
+                            <div class="search-answer correct-answer" id="popup-correct-answer"></div>
+                            <div class="search-def" id="popup-correct-def"></div>
+                            <a class="search-link" id="search-link-correct" target="_blank" rel="noopener">Search on Google →</a>
+                        </div>
+                        <div class="search-divider"></div>
+                        <div class="search-insight" id="popup-insight"></div>
+                    </div>
+                    <div class="popup-panel-footer">
+                        <button class="btn btn-primary" id="popup-got-it" onclick="dismissPopup()">Got it</button>
+                    </div>
+                </div>
+            </main>
+            <footer class="quiz-footer">
+                <div class="keyboard-hint">Press <kbd>1</kbd>-<kbd>4</kbd> or <kbd>A</kbd>-<kbd>D</kbd> to select, <kbd>Enter</kbd> to continue</div>
+            </footer>
+        </div>
+
+        <div id="screen-results" class="screen">
+            <div class="results-container fade-in-up">
+                <h1 class="results-title">Quiz Complete!</h1>
+                <div class="score-circle">
+                    <div class="score-circle-inner">
+                        <span class="score-number" id="score-text">0/0</span>
+                        <span class="score-percent" id="percentage">0%</span>
+                    </div>
+                </div>
+                <div class="accuracy-bar-container">
+                    <div class="accuracy-label">Accuracy</div>
+                    <div class="progress-track accuracy-track">
+                        <div class="progress-fill accuracy-fill" id="accuracy-bar"></div>
+                    </div>
+                </div>
+                <div class="stats-row">
+                    <div class="stat-card">
+                        <div class="stat-value" id="avg-time">0s</div>
+                        <div class="stat-label">Avg Time/Question</div>
+                    </div>
+                    <div class="stat-card">
+                        <div class="stat-value" id="total-time">0s</div>
+                        <div class="stat-label">Total Time</div>
+                    </div>
+                    <div class="stat-card">
+                        <div class="stat-value" id="correct-count">0</div>
+                        <div class="stat-label">Correct</div>
+                    </div>
+                </div>
+                <div class="wrong-review" id="wrong-review-section">
+                    <h2>Review Incorrect Answers</h2>
+                    <div id="wrong-list"></div>
+                </div>
+                <div class="results-actions">
+                    <button class="btn btn-primary" onclick="startQuiz()">Retake Quiz</button>
+                    <button class="btn btn-secondary" id="retry-btn" onclick="retryIncorrect()">Retry Incorrect Questions</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="main/src/app.js"></script>
+</body>
+</html>

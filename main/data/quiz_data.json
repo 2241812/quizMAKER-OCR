@@ -1,0 +1,1113 @@
+{
+  "title": "Mapúa Building Utilities Reviewer",
+  "questions": [
+    {
+      "id": 1,
+      "question": "A type of water closet where the flushing action is started by a whirlpool motion followed by a complete flush down.",
+      "choices": [
+        "Reverse trap water closet",
+        "Washdown water closet",
+        "Siphon vortex water closet"
+      ],
+      "answer": "Siphon vortex water closet"
+    },
+    {
+      "id": 2,
+      "question": "A plumbing fixture that is used for cleaning private parts.",
+      "choices": [
+        "Bidet",
+        "Lavatory",
+        "Water closet",
+        "Sink"
+      ],
+      "answer": "Bidet"
+    },
+    {
+      "id": 3,
+      "question": "These are used for control, isolation and repair of the water distribution system.",
+      "choices": [
+        "Control and valves",
+        "Pipes and fittings",
+        "Risers and fixture branches"
+      ],
+      "answer": "Control and valves"
+    },
+    {
+      "id": 4,
+      "question": "Pipe fitting used in connecting male threaded pipes (threads are outside).",
+      "choices": [
+        "Nipple",
+        "Coupling",
+        "Union",
+        "Cap"
+      ],
+      "answer": "Nipple"
+    },
+    {
+      "id": 5,
+      "question": "Flowing back of used, contaminated or polluted water from a plumbing fixture or vessel into a water supply pipe due to a negative pressure in such pipe.",
+      "choices": [
+        "Back siphonage",
+        "Siphonage",
+        "Backflow",
+        "Reversal of flow"
+      ],
+      "answer": "Back siphonage"
+    },
+    {
+      "id": 6,
+      "question": "Pipe that conveys only waste water or liquid waste free of fecal matter.",
+      "choices": [
+        "Soil pipe",
+        "Vent pipe",
+        "Waste pipe",
+        "Waste stack"
+      ],
+      "answer": "Waste pipe"
+    },
+    {
+      "id": 7,
+      "question": "Used for ensuring the circulation of air in a plumbing system and for relieving the negative pressure exerted on trap seals.",
+      "choices": [
+        "Vent pipe",
+        "Waste pipe",
+        "Soil pipe",
+        "Vent stack"
+      ],
+      "answer": "Vent pipe"
+    },
+    {
+      "id": 8,
+      "question": "A fitting or device designed and constructed to provide, when properly vented, a liquid seal which prevents the backflow of foul air or methane gas without materially affecting the flow of sewage or wastewater through it.",
+      "choices": [
+        "Fitting",
+        "Coupling",
+        "Trap",
+        "Ventilation"
+      ],
+      "answer": "Trap"
+    },
+    {
+      "id": 9,
+      "question": "The vertical main of a system of soil, waste or vent pipes extending through one or more stories and extended through the roof.",
+      "choices": [
+        "Riser",
+        "Stack",
+        "Stock",
+        "Drainage pipe"
+      ],
+      "answer": "Stack"
+    },
+    {
+      "id": 10,
+      "question": "Part of the lowest horizontal piping of a plumbing system which receives the discharges from the soil, waste and other drainage pipes inside of a building and conveys it to the house sewer outside of the building.",
+      "choices": [
+        "House drain",
+        "House sewer",
+        "House drainage",
+        "House pipe"
+      ],
+      "answer": "House drain"
+    },
+    {
+      "id": 11,
+      "question": "Extends from the house drain at a point 0.60 meters from the outside face of the foundation wall of a building to the junction with the street sewer or to any point of discharge.",
+      "choices": [
+        "House drain",
+        "House sewer",
+        "House drainage",
+        "House pipe"
+      ],
+      "answer": "House sewer"
+    },
+    {
+      "id": 12,
+      "question": "A device designed and installed to separate and retain deleterious, hazardous or undesirable matters from normal wastes and permits normal sewage or liquid wastes to discharge into the disposal terminal by gravity.",
+      "choices": [
+        "Grease trap",
+        "Trap",
+        "Interceptor",
+        "Separator"
+      ],
+      "answer": "Interceptor"
+    },
+    {
+      "id": 13,
+      "question": "Portion of the drainage pipe installation intended to maintain a balanced atmospheric pressure inside the system.",
+      "choices": [
+        "Siphonage",
+        "Ventilation",
+        "Atmospheric balance",
+        "Trap"
+      ],
+      "answer": "Ventilation"
+    },
+    {
+      "id": 14,
+      "question": "The extension of a soil or waste stack above the highest horizontal drain connected to the stack.",
+      "choices": [
+        "Stack vent",
+        "Vent stack",
+        "Vent pipe",
+        "Circuit vent"
+      ],
+      "answer": "Stack vent"
+    },
+    {
+      "id": 15,
+      "question": "The vertical vent pipe installed primarily for providing circulation of air to and from any part of the soil, waste of the drainage system.",
+      "choices": [
+        "Stack vent",
+        "Vent stack",
+        "Vent pipe",
+        "Circuit vent"
+      ],
+      "answer": "Vent stack"
+    },
+    {
+      "id": 16,
+      "question": "The uppermost end of vent stack above the roof has traditionally been referred to as:",
+      "choices": [
+        "Vent stack through roof",
+        "Vent stack above the roof"
+      ],
+      "answer": "Vent stack through roof"
+    },
+    {
+      "id": 17,
+      "question": "Pipe that does not connect directly with the drainage system but conveys liquid wastes by discharging into a plumbing fixture, interceptor or receptacle directly connected to the drainage system.",
+      "choices": [
+        "Direct waste pipe",
+        "Indirect waste pipe",
+        "Indirect cost soil pipe"
+      ],
+      "answer": "Indirect waste pipe"
+    },
+    {
+      "id": 18,
+      "question": "Used in house drain to prevent the unlikely occurrence of back flows.",
+      "choices": [
+        "Angle valve",
+        "Gate valve",
+        "Backflow valve",
+        "Globe valve"
+      ],
+      "answer": "Backflow valve"
+    },
+    {
+      "id": 19,
+      "question": "Pumps the wastes up from the sump pit to the sewers (which are usually higher than basement levels).",
+      "choices": [
+        "Sewage ejectors",
+        "Sewage lifter",
+        "Sewage suction",
+        "Sewage catcher"
+      ],
+      "answer": "Sewage ejectors"
+    },
+    {
+      "id": 20,
+      "question": "Used for fixtures where grease may be introduced into the drainage or sewer system in quantities that can affect line stoppage or hinder sewage treatment or private sewage disposal.",
+      "choices": [
+        "Grease trap",
+        "Grease interceptor",
+        "Grease catcher",
+        "Grease magnet"
+      ],
+      "answer": "Grease trap"
+    },
+    {
+      "id": 21,
+      "question": "Direct effect of the Minus & Plus Pressure inside the system due to inadequate ventilation of traps.",
+      "choices": [
+        "Siphonage",
+        "Trap seal loss",
+        "Trap seal barrier",
+        "Atmospheric loss"
+      ],
+      "answer": "Siphonage"
+    },
+    {
+      "id": 22,
+      "question": "That portion of a vent pipe through which wastewater also flows through.",
+      "choices": [
+        "Wet vent",
+        "Dry vent",
+        "Waste vent",
+        "Main vent"
+      ],
+      "answer": "Wet vent"
+    },
+    {
+      "id": 23,
+      "question": "A vent that does not carry liquid or water-borne wastes.",
+      "choices": [
+        "Wet vent",
+        "Dry vent",
+        "Waste vent",
+        "Main vent"
+      ],
+      "answer": "Dry vent"
+    },
+    {
+      "id": 24,
+      "question": "A vertical vent connection on a horizontal soil or waste pipe branch at a point downstream of the last fixture connection and turning to a horizontal line above the highest overflow level of the highest fixture connected there. Used in spaces without partitions.",
+      "choices": [
+        "Looped vent",
+        "Circuit vent",
+        "Relief vent",
+        "Yoke vent"
+      ],
+      "answer": "Looped vent"
+    },
+    {
+      "id": 25,
+      "question": "A group vent pipe which starts in front of the extreme (highest) fixture connection on a horizontal branch and connects to the vent stack.",
+      "choices": [
+        "Looped vent",
+        "Circuit vent",
+        "Relief vent",
+        "Yoke vent"
+      ],
+      "answer": "Circuit vent"
+    },
+    {
+      "id": 26,
+      "question": "A vertical vent line that provides additional circulation of air between the drainage and vent systems or to act as an auxiliary vent on a specially designed system such as a 'yoke vent' connection between the soil and vent stacks.",
+      "choices": [
+        "Looped vent",
+        "Circuit vent",
+        "Relief vent",
+        "Yoke vent"
+      ],
+      "answer": "Relief vent"
+    },
+    {
+      "id": 27,
+      "question": "An arrangement of venting so installed that one vent pipe serves two (2) traps.",
+      "choices": [
+        "Unit vent",
+        "Double vent",
+        "Two vent",
+        "Looped vent"
+      ],
+      "answer": "Unit vent"
+    },
+    {
+      "id": 28,
+      "question": "A pipe fitting containing a removable plug that provides access for repair or inspection of a pipe.",
+      "choices": [
+        "Manhole",
+        "Cleanout",
+        "Trap",
+        "Cap"
+      ],
+      "answer": "Cleanout"
+    },
+    {
+      "id": 29,
+      "question": "The principal artery of the venting system to which vent branches are connected.",
+      "choices": [
+        "Main vent",
+        "Main soil and waste vent",
+        "Vent stack",
+        "Vent pipe"
+      ],
+      "answer": "Main vent"
+    },
+    {
+      "id": 30,
+      "question": "Used in pipe plumbing systems to connect straight pipe or tubing sections, to adapt to different sizes or shapes, and for other purposes, such as regulating or measuring fluid flow.",
+      "choices": [
+        "Cap",
+        "Plug",
+        "Fitting",
+        "Connector"
+      ],
+      "answer": "Fitting"
+    },
+    {
+      "id": 31,
+      "question": "The art and technique of installing pipes, fixtures, and other apparatuses in buildings for bringing in the supply of liquids, substances and/or ingredients and removing them.",
+      "choices": [
+        "Sanitary",
+        "Plumbing",
+        "Drainage",
+        "Piping"
+      ],
+      "answer": "Plumbing"
+    },
+    {
+      "id": 32,
+      "question": "The most common type of well, usually dug manually and around 15 meters deep.",
+      "choices": [
+        "Shallow well",
+        "Driven well",
+        "Deepwell",
+        "Drilled well"
+      ],
+      "answer": "Shallow well"
+    },
+    {
+      "id": 33,
+      "question": "A type of pump that is designed to be fully immersible within a tank or other media storage receptacle.",
+      "choices": [
+        "Sump pump",
+        "Rotary pump",
+        "Jet pump",
+        "Submersible pump"
+      ],
+      "answer": "Submersible pump"
+    },
+    {
+      "id": 34,
+      "question": "A type of valve that is used mainly to completely close or completely open the water line (does not control flow of water).",
+      "choices": [
+        "Globe valve",
+        "Check valve",
+        "Angle valve",
+        "Gate valve"
+      ],
+      "answer": "Gate valve"
+    },
+    {
+      "id": 35,
+      "question": "A type of valve that is used to prevent reversal of flow in the line.",
+      "choices": [
+        "Globe valve",
+        "Check valve",
+        "Angle valve",
+        "Gate valve"
+      ],
+      "answer": "Check valve"
+    },
+    {
+      "id": 36,
+      "question": "A water supply pipe extending vertically to one full story or more to convey water into pipe branches or plumbing fixtures.",
+      "choices": [
+        "Riser",
+        "Stack",
+        "Service pipe",
+        "Downspout"
+      ],
+      "answer": "Riser"
+    },
+    {
+      "id": 37,
+      "question": "The pipe from the street water main or other source of water supply to the building served.",
+      "choices": [
+        "Riser",
+        "Stack",
+        "Service pipe",
+        "Downspout"
+      ],
+      "answer": "Service pipe"
+    },
+    {
+      "id": 38,
+      "question": "A device used to measure in liters or gallons the amount of water that passes through the water service.",
+      "choices": [
+        "Water meter",
+        "Megameter",
+        "Hydrometer",
+        "Maynilad meter"
+      ],
+      "answer": "Water meter"
+    },
+    {
+      "id": 39,
+      "question": "A type of water closet that flushes through a simple wash down action and discharges waste into a trapway located at the front of the bowl.",
+      "choices": [
+        "Reverse trap water closet",
+        "Washdown water closet",
+        "Siphon vortex water closet"
+      ],
+      "answer": "Washdown water closet"
+    },
+    {
+      "id": 40,
+      "question": "A type of water closet that flushes through a siphon action created in the trapway.",
+      "choices": [
+        "Reverse trap water closet",
+        "Washdown water closet",
+        "Siphon vortex water closet"
+      ],
+      "answer": "Reverse trap water closet"
+    },
+    {
+      "id": 41,
+      "question": "A watertight covered receptacle designed and constructed to receive the discharge of sewage from a building sewer, separate solids from the liquid, digest organic matter and store digested solids through a period of detention, and allow the clarified liquids to discharge for final disposal.",
+      "choices": [
+        "Septic tank",
+        "Seepage pit",
+        "Privy",
+        "Cesspool"
+      ],
+      "answer": "Septic tank"
+    },
+    {
+      "id": 42,
+      "question": "Waste water with the exception of human wastes.",
+      "choices": [
+        "Grey water",
+        "Black water",
+        "Storm water",
+        "Blue water"
+      ],
+      "answer": "Grey water"
+    },
+    {
+      "id": 43,
+      "question": "Water plus solid and liquid human wastes.",
+      "choices": [
+        "Grey water",
+        "Black water",
+        "Storm water",
+        "Blue water"
+      ],
+      "answer": "Black water"
+    },
+    {
+      "id": 44,
+      "question": "What do you call rain water?",
+      "choices": [
+        "Grey water",
+        "Black water",
+        "Storm water",
+        "Blue water"
+      ],
+      "answer": "Storm water"
+    },
+    {
+      "id": 45,
+      "question": "A loosely lined excavation in the ground, which receives the discharge of a septic tank; designed to permit effluent to seep through pit bottom and sides.",
+      "choices": [
+        "Septic tank",
+        "Seepage pit",
+        "Privy",
+        "Cesspool"
+      ],
+      "answer": "Seepage pit"
+    },
+    {
+      "id": 46,
+      "question": "What do you call a non-watertight lined excavation in the ground which receives the discharge of a sanitary drainage system, designed to retain the organic matter but permitting the liquid to seep through the pit bottom and sides?",
+      "choices": [
+        "Septic tank",
+        "Seepage pit",
+        "Privy",
+        "Cesspool"
+      ],
+      "answer": "Cesspool"
+    },
+    {
+      "id": 47,
+      "question": "A pipe installed in buildings not as part of the water supply or waste disposal system but primarily for use as water conveyor in case of fire.",
+      "choices": [
+        "Riser",
+        "Stack",
+        "Standpipe",
+        "Water pipe"
+      ],
+      "answer": "Standpipe"
+    },
+    {
+      "id": 48,
+      "question": "How it works: a standpipe is connected to the building exterior (max ht. = 1.20M) for connection to fire department.",
+      "choices": [
+        "Dry standpipe",
+        "Wet standpipe",
+        "Wet standpipe with Siamese connection"
+      ],
+      "answer": "Dry standpipe"
+    },
+    {
+      "id": 49,
+      "question": "How it works: a piping network (line is directly connected to the main water line) connects to all levels of a building (at least 1 standpipe on each level).",
+      "choices": [
+        "Dry standpipe",
+        "Wet standpipe",
+        "Wet standpipe with Siamese connection"
+      ],
+      "answer": "Wet standpipe"
+    },
+    {
+      "id": 50,
+      "question": "As much as possible, standpipes should be located in:",
+      "choices": [
+        "Stairway landings",
+        "Hallway",
+        "Entrance",
+        "Corners"
+      ],
+      "answer": "Stairway landings"
+    },
+    {
+      "id": 51,
+      "question": "The number of wet standpipes shall be determined so that all portions of the building are within ___ meters of a nozzle attached to a hose ___ meters long.",
+      "choices": [
+        "6m; 23m",
+        "7m; 23m",
+        "6m; 24m",
+        "6m; 25m"
+      ],
+      "answer": "6m; 23m"
+    },
+    {
+      "id": 52,
+      "question": "Distance of sprinkler pipes.",
+      "choices": [
+        "3 to 6m",
+        "2 to 4m",
+        "4 to 8m"
+      ],
+      "answer": "3 to 6m"
+    },
+    {
+      "id": 53,
+      "question": "This sprinkler head type (shown in figure) is:",
+      "choices": [
+        "Siamese twin",
+        "Sprinkler head",
+        "Upright",
+        "Pendent"
+      ],
+      "answer": "Siamese twin"
+    },
+    {
+      "id": 54,
+      "question": "In the drawing, Figure a is:",
+      "choices": [
+        "Pendent",
+        "Upright",
+        "Pendant",
+        "Upward"
+      ],
+      "answer": "Upright"
+    },
+    {
+      "id": 55,
+      "question": "In the drawing, Figure b is:",
+      "choices": [
+        "Pendent",
+        "Upright",
+        "Pendant",
+        "Upward"
+      ],
+      "answer": "Pendent"
+    },
+    {
+      "id": 56,
+      "question": "For basement parking what type of sprinkler is suitable to use?",
+      "choices": [
+        "Pendent",
+        "Upright",
+        "Pendant",
+        "Upward"
+      ],
+      "answer": "Upright"
+    },
+    {
+      "id": 57,
+      "question": "Type of sprinkler system that are installed in spaces in which the ambient temperature may be cold enough to freeze the water, rendering the system inoperable.",
+      "choices": [
+        "Dry",
+        "Wet",
+        "Moist",
+        "Humid"
+      ],
+      "answer": "Dry"
+    },
+    {
+      "id": 58,
+      "question": "For offices what type of sprinkler head is best to use?",
+      "choices": [
+        "Pendent",
+        "Upright",
+        "Pendant",
+        "Upward"
+      ],
+      "answer": "Pendent"
+    },
+    {
+      "id": 59,
+      "question": "Which of the following storm water system does not use gutter or downspout?",
+      "choices": [
+        "Natural system",
+        "Combined system",
+        "Independent system"
+      ],
+      "answer": "Natural system"
+    },
+    {
+      "id": 60,
+      "question": "Which of the following storm water system brings collected water directly to the reservoir?",
+      "choices": [
+        "Natural system",
+        "Combined system",
+        "Independent system"
+      ],
+      "answer": "Independent system"
+    },
+    {
+      "id": 61,
+      "question": "Which of the following storm water system combines storm water with sanitary waste?",
+      "choices": [
+        "Natural system",
+        "Combined system",
+        "Independent system"
+      ],
+      "answer": "Combined system"
+    },
+    {
+      "id": 62,
+      "question": "What do you call the roofing element usually located along the entire perimeter of the roof used for collecting rainwater?",
+      "choices": [
+        "Gutter",
+        "Downspout",
+        "Catch basin",
+        "Roof drain"
+      ],
+      "answer": "Gutter"
+    },
+    {
+      "id": 71,
+      "question": "What is a manually operated alarm-initiating device that may be equipped to generate a continuous signal or a series of coded pulses?",
+      "choices": [
+        "Supervised system",
+        "Multiplex system",
+        "Fire alarm station",
+        "Addressable detector"
+      ],
+      "answer": "Fire alarm station"
+    },
+    {
+      "id": 72,
+      "question": "What is the common term which refers to the circuit arrangements in fire alarm system that indicate a malfunction in the wiring of alarm devices by sounding a trouble bell?",
+      "choices": [
+        "System coding",
+        "Fire detection",
+        "Circuit supervision",
+        "Signal processing"
+      ],
+      "answer": "Circuit supervision"
+    },
+    {
+      "id": 73,
+      "question": "Which type of heat detector is applied to long, narrow elements, and applied typically in cable trays, cable bundle of all sorts, conveyors and large long equipment?",
+      "choices": [
+        "Linear heat detector",
+        "Spot type heat detector",
+        "Infrared radiation detector",
+        "Ultraviolet radiation detector"
+      ],
+      "answer": "Linear heat detector"
+    },
+    {
+      "id": 74,
+      "question": "Which type of flame detector is long range and very sensitive which react in milliseconds and react to most types of fires?",
+      "choices": [
+        "Linear heat detector",
+        "Spot type heat detector",
+        "Infrared radiation detector",
+        "Ultraviolet radiation detector"
+      ],
+      "answer": "Ultraviolet radiation detector"
+    },
+    {
+      "id": 75,
+      "question": "Which signal device consists of an electromagnetic coil that, when electric power is applied to it will cause a thin metal piece to vibrate?",
+      "choices": [
+        "Horn",
+        "Buzzer",
+        "Chime",
+        "Siren"
+      ],
+      "answer": "Buzzer"
+    },
+    {
+      "id": 76,
+      "question": "Which signal device consists of an electric motor that produces a continuous high-pitched sound (100dB max) and can be used only in a place with normally high ambient sound?",
+      "choices": [
+        "Horn",
+        "Buzzer",
+        "Chime",
+        "Siren"
+      ],
+      "answer": "Siren"
+    },
+    {
+      "id": 77,
+      "question": "Which intrusion detection device operates on the simple principle of beam interruption, which is quite effective indoors, but outdoors, dusts, insects and birds can show the location of the beam, permitting it to be circumvented?",
+      "choices": [
+        "Passive infrared presence detector",
+        "Mechanical motion detector",
+        "Photoelectric device",
+        "Sensors with normally open contacts"
+      ],
+      "answer": "Photoelectric device"
+    },
+    {
+      "id": 78,
+      "question": "Which intrusion detection device is basically a spring mounted contact suspended inside a second contact surface which is very sensitive and can be activated by sonic booms, wind and even a heavy truck passing by?",
+      "choices": [
+        "Passive infrared presence detector",
+        "Mechanical motion detector",
+        "Photoelectric device",
+        "Sensors with normally open contrast"
+      ],
+      "answer": "Mechanical motion detector"
+    },
+    {
+      "id": 79,
+      "question": "Which of the following systems is interconnected to all electrical equipment to provide a direct path to earth in order to protect people and equipment from fault currents?",
+      "choices": [
+        "Grounding",
+        "Circuit breaker",
+        "Transformer",
+        "Fuse"
+      ],
+      "answer": "Grounding"
+    },
+    {
+      "id": 80,
+      "question": "What do you call the unit of measurement of the movement of electric charge known as an electric current?",
+      "choices": [
+        "Volts",
+        "Amperes",
+        "Watts"
+      ],
+      "answer": "Amperes"
+    },
+    {
+      "id": 81,
+      "question": "Which of the following types of wires has a galvanized steel spiral metal sheath and may be installed in dry, indoor locations with product designation BX?",
+      "choices": [
+        "Non-metallic sheathed cable",
+        "Flexible cable",
+        "Armored cable",
+        "Full metal cable"
+      ],
+      "answer": "Armored cable"
+    },
+    {
+      "id": 82,
+      "question": "What is referred as the entire course an electric current travels, from the source of power, through an electrical device, and back to the source?",
+      "choices": [
+        "Wiring",
+        "Grounding",
+        "Interference",
+        "Circuit"
+      ],
+      "answer": "Circuit"
+    },
+    {
+      "id": 83,
+      "question": "Which of the following materials is a good conductor and most commonly used for electrical wires?",
+      "choices": [
+        "Aluminum",
+        "Copper",
+        "Nickel",
+        "Zinc"
+      ],
+      "answer": "Copper"
+    },
+    {
+      "id": 84,
+      "question": "Which of the following types of wiring includes several light fixtures or receptacles that operate on the same circuit with the hot and neutral wires running together from one housing box to another and wires to individual devices branch off from them?",
+      "choices": [
+        "Continuous wiring",
+        "Series wiring",
+        "Neutral wiring",
+        "Parallel wiring"
+      ],
+      "answer": "Parallel wiring"
+    },
+    {
+      "id": 85,
+      "question": "What is an automatically operated electrical switch designed to protect an electrical circuit from damage caused by overload or short circuit and its basic function is to detect a fault condition and interrupt current flow?",
+      "choices": [
+        "Fuse",
+        "Circuit breaker",
+        "Transformer",
+        "Capacitor"
+      ],
+      "answer": "Circuit breaker"
+    },
+    {
+      "id": 86,
+      "question": "What do you call a safety device designed to stop an elevator car automatically before the car's speed becomes excessive?",
+      "choices": [
+        "Governor",
+        "Break",
+        "Buffers",
+        "Final limit switches"
+      ],
+      "answer": "Governor"
+    },
+    {
+      "id": 87,
+      "question": "What do you call a safety device usually placed in the elevator pit and the main purpose is not to stop a falling car but to bring it to a partially cushioned stop if it would over travel the lower terminal?",
+      "choices": [
+        "Governor",
+        "Break",
+        "Buffers",
+        "Final limit switches"
+      ],
+      "answer": "Buffers"
+    },
+    {
+      "id": 88,
+      "question": "Which escalator arrangement is simpler to visualize and also more common and requires floor space around escalators, which is used in stores to display special sale merchandise?",
+      "choices": [
+        "Diagonal",
+        "Horizontal",
+        "Parallel",
+        "Crisscross"
+      ],
+      "answer": "Crisscross"
+    },
+    {
+      "id": 89,
+      "question": "What do you call the equipment, which is also known as ejection lift because of the method of delivery, and this device is ideally suited for delivery of food carts, linens, dishes and bulk-liquid containers?",
+      "choices": [
+        "Inclined elevator",
+        "Automated dumbwaiter",
+        "Horizontal conveyor",
+        "Pneumatic tube"
+      ],
+      "answer": "Automated dumbwaiter"
+    },
+    {
+      "id": 90,
+      "question": "What is a vertical shaft for the travel of one or more elevators which includes the pit and terminates at the underside of the overhang machinery space floor for electric elevators, or at the underside of the roof over the hoistway of a hydraulic elevator?",
+      "choices": [
+        "Hoistway",
+        "Machine room",
+        "Counter weight",
+        "Elevator car"
+      ],
+      "answer": "Hoistway"
+    },
+    {
+      "id": 91,
+      "question": "What is normally located near the base of the hoistway containing hydraulic pump unit and electronic controls of hydraulic type elevators?",
+      "choices": [
+        "Cable wires",
+        "Electrical room",
+        "Machine room",
+        "Mechanical room"
+      ],
+      "answer": "Machine room"
+    },
+    {
+      "id": 92,
+      "question": "Which of the following escalator components is a welded steel frame that supports the entire apparatus and the tracks are steel angles attached to this component, which the step rollers are guided, thus controlling the motion of the steps?",
+      "choices": [
+        "Handrail",
+        "Control cabinet",
+        "Balustrade",
+        "Truss"
+      ],
+      "answer": "Truss"
+    },
+    {
+      "id": 93,
+      "question": "Which of the following conveying systems uses a flattened pallet in place of a step where the drive mechanism, safeties, brake, handrails, and so on—the unit is similar to an escalator?",
+      "choices": [
+        "Moving walk",
+        "Conveyor",
+        "Dumbwaiter",
+        "Lift"
+      ],
+      "answer": "Moving walk"
+    },
+    {
+      "id": 94,
+      "question": "Which of the following structural fire protection in buildings includes manual and automatic detection and suppression of fires, like using and installing a fire sprinkler system or finding the fire alarm and/or extinguishing it?",
+      "choices": [
+        "Passive fire protection",
+        "Mechanical fire protection",
+        "Manual fire protection",
+        "Active fire protection"
+      ],
+      "answer": "Active fire protection"
+    },
+    {
+      "id": 95,
+      "question": "What is a key selection criterion for elevators that is considered as the average time spent by passengers from the moment they arrive in the lobby to the moment they leave the car at an upper floor?",
+      "choices": [
+        "Average trip time",
+        "Handling capacity",
+        "Velocity",
+        "Waiting time"
+      ],
+      "answer": "Average trip time"
+    },
+    {
+      "id": 96,
+      "question": "Which of the given HVAC systems is in one place that distributes the equipment's function to a specific floor or zone?",
+      "choices": [
+        "Local system",
+        "Specialized system",
+        "Centralized system",
+        "All-in system"
+      ],
+      "answer": "Centralized system"
+    },
+    {
+      "id": 97,
+      "question": "Which of the following HVAC systems has the disadvantages of demanding maintenance, many potential threats to the occupied spaces and regular cleaning to maintain air quality?",
+      "choices": [
+        "Local system",
+        "Specialized system",
+        "Centralized system",
+        "All-in system"
+      ],
+      "answer": "Local system"
+    },
+    {
+      "id": 98,
+      "question": "Which HVAC system type eliminates the distribution trees of air and water, relying instead on heat/cooling device adjacent to or within the space to be served?",
+      "choices": [
+        "All water",
+        "Air and water",
+        "All air",
+        "Direct refrigerant"
+      ],
+      "answer": "Direct refrigerant"
+    },
+    {
+      "id": 99,
+      "question": "Which of the following HVAC equipment carries air to and from conditioned space and contains dampers to direct and modulate air flow?",
+      "choices": [
+        "Air grille",
+        "Duct",
+        "Fan",
+        "Heat exchanger"
+      ],
+      "answer": "Duct"
+    },
+    {
+      "id": 100,
+      "question": "Which of the following HVAC equipment includes condensers and evaporators in refrigeration equipment, water and steam coils in air handlers?",
+      "choices": [
+        "Air grille",
+        "Duct",
+        "Fan",
+        "Heat exchanger"
+      ],
+      "answer": "Heat exchanger"
+    },
+    {
+      "id": 101,
+      "question": "Which of the following HVAC design process considers the most general combinations of comfort needs and climate characteristics?",
+      "choices": [
+        "Preliminary design phase",
+        "Design development phase",
+        "Design finalizing",
+        "Evaluation"
+      ],
+      "answer": "Preliminary design phase"
+    },
+    {
+      "id": 102,
+      "question": "Which of the following HVAC design process applies one of the design alternatives which has probably been chosen as the most promising combination of aesthetic, social and technical solutions for the program?",
+      "choices": [
+        "Preliminary design phase",
+        "Design development phase",
+        "Design finalizing",
+        "Evaluation"
+      ],
+      "answer": "Evaluation"
+    },
+    {
+      "id": 103,
+      "question": "What is considered the critical decision in sizing the heating equipment?",
+      "choices": [
+        "Equipment capacity",
+        "Specification",
+        "Location",
+        "Design temperature"
+      ],
+      "answer": "Specification"
+    },
+    {
+      "id": 104,
+      "question": "Which of the given HVAC components are valves that allow some or all of the airflow through a duct to be cut off that can be manually operated by building occupants, or automatically operated by centralized control systems?",
+      "choices": [
+        "Plenums",
+        "Dampers",
+        "Fan coils",
+        "Ducts"
+      ],
+      "answer": "Dampers"
+    },
+    {
+      "id": 105,
+      "question": "What is referred as gases at normal temperatures and pressures, and must be compressed and liquefied to be of service later as heat absorbers in HVAC systems?",
+      "choices": [
+        "Refrigerants",
+        "Oxygen",
+        "Ventilators",
+        "All of the above"
+      ],
+      "answer": "Refrigerants"
+    },
+    {
+      "id": 106,
+      "question": "What is considered as the perpetuation of reflected sound within a space after the source has ceased?",
+      "choices": [
+        "Echo",
+        "Reverberation",
+        "Diffusion",
+        "Diffraction"
+      ],
+      "answer": "Reverberation"
+    },
+    {
+      "id": 107,
+      "question": "Which of the following is a source of airborne sound?",
+      "choices": [
+        "Conversation",
+        "Outdoor noise",
+        "Music",
+        "All of the above"
+      ],
+      "answer": "All of the above"
+    },
+    {
+      "id": 108,
+      "question": "What do you call the sound travelling through solid building components such as floors, walls and ductwork?",
+      "choices": [
+        "Structure-borne",
+        "Surface-borne",
+        "Air-borne",
+        "Vibration"
+      ],
+      "answer": "Structure-borne"
+    },
+    {
+      "id": 109,
+      "question": "What do you call the science of sound?",
+      "choices": [
+        "Music",
+        "Acoustics",
+        "Audibility",
+        "Sound phenomena"
+      ],
+      "answer": "Acoustics"
+    },
+    {
+      "id": 110,
+      "question": "What is the science of controlling sound within buildings?",
+      "choices": [
+        "Acoustics",
+        "Architectural acoustics",
+        "Sound engineering",
+        "Building acoustics"
+      ],
+      "answer": "Architectural acoustics"
+    }
+  ]
+}
