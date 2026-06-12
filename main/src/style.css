@@ -82,13 +82,25 @@ body {
 .screen {
     display: none;
     min-height: 100vh;
+    will-change: transform, opacity;
 }
 
 .screen.active {
     display: flex;
+    animation: screenFadeIn 0.35s cubic-bezier(0.4, 0, 0.2, 1) forwards;
 }
 
-/* Start Screen */
+@keyframes screenFadeIn {
+    from {
+        opacity: 0;
+        transform: scale(0.98);
+    }
+    to {
+        opacity: 1;
+        transform: scale(1);
+    }
+}
+
 #screen-start {
     align-items: center;
     justify-content: center;
@@ -168,7 +180,13 @@ body {
     border-color: var(--primary);
 }
 
-/* Quiz Screen */
+.start-actions {
+    display: flex;
+    flex-direction: column;
+    gap: 0.75rem;
+    align-items: center;
+}
+
 #screen-quiz {
     flex-direction: column;
 }
@@ -235,6 +253,7 @@ body {
     min-width: 0;
     box-shadow: var(--shadow-sm);
     flex-shrink: 0;
+    will-change: transform, opacity;
 }
 
 .question-text {
@@ -263,13 +282,20 @@ body {
     cursor: pointer;
     font-size: 1rem;
     text-align: left;
-    transition: all 0.2s ease;
+    transition: all 0.15s ease, transform 0.1s ease;
     color: var(--gray-700);
+    opacity: 0;
+    animation: choiceFadeIn 0.35s ease forwards;
+    will-change: transform, opacity;
 }
 
 .choice-btn:hover:not(:disabled) {
     border-color: var(--primary);
     background: var(--primary-light);
+}
+
+.choice-btn:active:not(:disabled) {
+    transform: scale(0.97);
 }
 
 .choice-label {
@@ -320,6 +346,7 @@ body {
 .choice-btn:disabled {
     cursor: default;
     opacity: 0.95;
+    animation: none;
 }
 
 .feedback {
@@ -340,7 +367,6 @@ body {
     color: var(--success);
 }
 
-/* Popup Panel (inline, beside question card) */
 .popup-panel {
     display: none;
     background: var(--surface);
@@ -490,7 +516,6 @@ body {
     width: 100%;
 }
 
-/* Skip Button */
 .btn-ghost {
     background: transparent;
     color: var(--text-secondary);
@@ -511,7 +536,6 @@ body {
     border-radius: 0.5rem;
 }
 
-/* Buttons */
 .btn {
     padding: 0.75rem 1.5rem;
     border-radius: 0.75rem;
@@ -519,7 +543,11 @@ body {
     font-weight: 600;
     border: none;
     cursor: pointer;
-    transition: all 0.15s ease;
+    transition: all 0.15s ease, transform 0.1s ease;
+}
+
+.btn:active {
+    transform: scale(0.97);
 }
 
 .btn-primary {
@@ -546,7 +574,24 @@ body {
     font-size: 1.1rem;
 }
 
-/* Quiz Footer */
+#resume-btn {
+    width: 100%;
+    max-width: 320px;
+    position: relative;
+    overflow: hidden;
+}
+
+#resume-btn::before {
+    content: '';
+    position: absolute;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    width: 3px;
+    background: var(--primary);
+    border-radius: 0 2px 2px 0;
+}
+
 .quiz-footer {
     padding: 1rem 2rem;
     text-align: center;
@@ -570,7 +615,6 @@ body {
     margin: 0 0.1rem;
 }
 
-/* Results Screen */
 #screen-results {
     padding: 2rem;
     align-items: flex-start;
@@ -729,7 +773,6 @@ body {
     flex-wrap: wrap;
 }
 
-/* Theme Toggle */
 .theme-toggle {
     position: fixed;
     top: 1rem;
@@ -744,7 +787,7 @@ body {
     align-items: center;
     justify-content: center;
     z-index: 50;
-    transition: all 0.2s ease;
+    transition: all 0.2s ease, transform 0.1s ease;
     box-shadow: var(--shadow-sm);
     font-size: 1.1rem;
 }
@@ -752,6 +795,10 @@ body {
 .theme-toggle:hover {
     transform: scale(1.1);
     box-shadow: var(--shadow-lg);
+}
+
+.theme-toggle:active {
+    transform: scale(0.95);
 }
 
 .theme-icon-dark {
@@ -766,7 +813,6 @@ body {
     display: inline;
 }
 
-/* Animations */
 .fade-in-up {
     animation: fadeInUp 0.45s ease forwards;
 }
@@ -777,12 +823,26 @@ body {
 }
 
 .question-enter {
-    animation: slideIn 0.35s ease forwards;
+    animation: questionSlideIn 0.4s cubic-bezier(0.25, 0.46, 0.45, 0.94) forwards;
 }
 
-@keyframes slideIn {
-    from { opacity: 0; transform: translateX(30px); }
+@keyframes questionSlideIn {
+    from { opacity: 0; transform: translateX(40px); }
     to { opacity: 1; transform: translateX(0); }
+}
+
+.question-exit {
+    animation: questionSlideOut 0.25s cubic-bezier(0.55, 0.06, 0.68, 0.19) forwards;
+}
+
+@keyframes questionSlideOut {
+    from { opacity: 1; transform: translateX(0); }
+    to { opacity: 0; transform: translateX(-40px); }
+}
+
+@keyframes choiceFadeIn {
+    from { opacity: 0; transform: translateY(10px); }
+    to { opacity: 1; transform: translateY(0); }
 }
 
 .choice-btn.shake {
@@ -843,7 +903,6 @@ body {
     to { opacity: 1; transform: scale(1); }
 }
 
-/* Responsive */
 @media (max-width: 800px) {
     .quiz-main {
         flex-direction: column;

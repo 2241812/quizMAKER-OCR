@@ -565,7 +565,7 @@
     },
     {
       "id": 53,
-      "question": "This sprinkler head type (shown in figure) is:",
+      "question": "What type of fire department connection features a twin-inlet fitting allowing multiple hoses to be connected?",
       "choices": [
         "Siamese twin",
         "Sprinkler head",
@@ -576,7 +576,7 @@
     },
     {
       "id": 54,
-      "question": "In the drawing, Figure a is:",
+      "question": "Which type of sprinkler head is designed to be installed on top of the branch line piping, pointing upwards?",
       "choices": [
         "Pendent",
         "Upright",
@@ -587,7 +587,7 @@
     },
     {
       "id": 55,
-      "question": "In the drawing, Figure b is:",
+      "question": "Which type of sprinkler head is designed to be installed pointing downwards from the branch line piping?",
       "choices": [
         "Pendent",
         "Upright",
@@ -1097,17 +1097,6 @@
         "Sound phenomena"
       ],
       "answer": "Acoustics"
-    },
-    {
-      "id": 110,
-      "question": "What is the science of controlling sound within buildings?",
-      "choices": [
-        "Acoustics",
-        "Architectural acoustics",
-        "Sound engineering",
-        "Building acoustics"
-      ],
-      "answer": "Architectural acoustics"
     }
   ]
 }

@@ -1,3 +1,5 @@
+const SAVE_KEY = 'quiz-save-state';
+
 const state = {
     data: null,
     currentIndex: 0,
@@ -19,6 +21,7 @@ document.addEventListener('DOMContentLoaded', async () => {
     loadTheme();
     await loadQuiz();
     setupKeyboard();
+    checkResume();
 });
 
 async function loadQuiz() {
@@ -27,6 +30,8 @@ async function loadQuiz() {
         state.data = await res.json();
         state.totalAvailable = state.data.questions.length;
         document.getElementById('total-questions').textContent = state.totalAvailable;
+        const allOption = document.querySelector('#count-select option[value="0"]');
+        if (allOption) allOption.textContent = `All ${state.totalAvailable}`;
     } catch (err) {
         document.getElementById('question-text').textContent = 'Failed to load quiz data.';
     }
@@ -84,7 +89,8 @@ function setupKeyboard() {
 
 function showScreen(screen) {
     document.querySelectorAll('.screen').forEach(s => s.classList.remove('active'));
-    document.getElementById(`screen-${screen}`).classList.add('active');
+    const target = document.getElementById(`screen-${screen}`);
+    target.classList.add('active');
 }
 
 function shuffleArray(arr) {
@@ -96,7 +102,85 @@ function shuffleArray(arr) {
     return a;
 }
 
+function saveState() {
+    const saveData = {
+        currentIndex: state.currentIndex,
+        questionOrder: state.questionOrder,
+        answers: state.answers,
+        questionTimes: state.questionTimes,
+        activeCount: state.activeCount,
+        retryMode: state.retryMode,
+        retryMapping: state.retryMapping,
+        skippedIndices: state.skippedIndices,
+        inSkippedRound: state.inSkippedRound,
+        answered: state.answered,
+        timestamp: Date.now()
+    };
+    localStorage.setItem(SAVE_KEY, JSON.stringify(saveData));
+}
+
+function loadSavedState() {
+    try {
+        const raw = localStorage.getItem(SAVE_KEY);
+        if (!raw) return null;
+        return JSON.parse(raw);
+    } catch (e) {
+        return null;
+    }
+}
+
+function clearSavedState() {
+    localStorage.removeItem(SAVE_KEY);
+    const resumeBtn = document.getElementById('resume-btn');
+    if (resumeBtn) resumeBtn.style.display = 'none';
+}
+
+function checkResume() {
+    const saved = loadSavedState();
+    const resumeBtn = document.getElementById('resume-btn');
+    if (!resumeBtn) return;
+
+    if (saved && state.data) {
+        const answered = Object.keys(saved.answers).filter(k => saved.answers[k] !== null).length;
+        const total = saved.activeCount || saved.questionOrder.length;
+        resumeBtn.textContent = `Resume Last Quiz (${answered}/${total})`;
+        resumeBtn.style.display = 'inline-block';
+    } else {
+        resumeBtn.style.display = 'none';
+    }
+}
+
+function resumeQuiz() {
+    const saved = loadSavedState();
+    if (!saved || !state.data) return;
+
+    state.currentIndex = saved.currentIndex;
+    state.questionOrder = saved.questionOrder;
+    state.answers = saved.answers || {};
+    state.questionTimes = saved.questionTimes || {};
+    state.activeCount = saved.activeCount;
+    state.retryMode = saved.retryMode || false;
+    state.retryMapping = saved.retryMapping || [];
+    state.skippedIndices = saved.skippedIndices || [];
+    state.inSkippedRound = saved.inSkippedRound || false;
+    state.answered = false;
+    state.popupOpen = false;
+    state.questionStartTime = null;
+
+    document.getElementById('popup-panel').classList.remove('visible');
+    showScreen('quiz');
+    renderQuestion();
+}
+
 function startQuiz() {
+    const saved = loadSavedState();
+    if (saved) {
+        const proceed = confirm('You have a quiz in progress. Starting a new quiz will discard it. Continue?');
+        if (!proceed) return;
+    }
+
+    clearSavedState();
+
     const countVal = parseInt(document.getElementById('count-select').value);
     const count = countVal === 0 ? state.totalAvailable : countVal;
     const takeCount = Math.min(count, state.totalAvailable);
@@ -156,7 +240,7 @@ function renderQuestion() {
     skipBtn.textContent = state.answers[globalIdx] ? 'Skipped' : 'Skip';
 
     const questionCard = document.getElementById('question-card');
-    questionCard.classList.remove('question-enter');
+    questionCard.classList.remove('question-enter', 'question-exit');
     void questionCard.offsetWidth;
     questionCard.classList.add('question-enter');
 
@@ -168,6 +252,7 @@ function renderQuestion() {
         const btn = document.createElement('button');
         btn.className = 'choice-btn';
         btn.dataset.index = i;
+        btn.style.animationDelay = `${i * 50}ms`;
         btn.innerHTML = `<span class="choice-label">${labels[i]}</span><span class="choice-text">${choice}</span>`;
         btn.addEventListener('click', () => selectAnswer(i));
         choicesEl.appendChild(btn);
@@ -176,6 +261,8 @@ function renderQuestion() {
     document.getElementById('feedback').className = 'feedback';
     state.answered = false;
     state.questionStartTime = Date.now();
+
+    saveState();
 }
 
 function selectAnswer(index) {
@@ -203,11 +290,13 @@ function selectAnswer(index) {
         btn.disabled = true;
     });
 
+    saveState();
+
     if (selected === correct) {
         const feedback = document.getElementById('feedback');
         feedback.textContent = 'Correct!';
         feedback.className = 'feedback correct visible';
-        setTimeout(() => advanceQuestion(), 1000);
+        setTimeout(() => animateToNextQuestion(), 1000);
     } else {
         showWrongPopup(q, selected, correct);
     }
@@ -225,7 +314,18 @@ function skipQuestion() {
         state.skippedIndices.push(globalIdx);
     }
 
-    advanceQuestion();
+    saveState();
+    animateToNextQuestion();
+}
+
+function animateToNextQuestion() {
+    const questionCard = document.getElementById('question-card');
+    questionCard.classList.remove('question-enter');
+    questionCard.classList.add('question-exit');
+
+    setTimeout(() => {
+        advanceQuestion();
+    }, 250);
 }
 
 function advanceQuestion() {
@@ -274,7 +374,7 @@ function extractDistinction(question, wrong, correct) {
     const c = correct.toLowerCase();
 
     if (q.includes('whirlpool') && c.includes('vortex'))
-        return `The question mentions a "whirlpool motion" which directly corresponds to the "vortex" in "${correct}". "${wrong}" does not involve a whirlpool action.`;
+        return `The question mentions a "whirlpool motion" which directly corresponds to the "vortex" concept in "${correct}". "${wrong}" uses a different flushing mechanism (simple gravity wash-down) that does not involve a whirlpool.`;
     if (q.includes('cleaning private parts') && c.includes('bidet'))
         return `A bidet is specifically designed for cleaning private parts with a water spray. "${wrong}" serves a different purpose.`;
     if (q.includes('control, isolation and repair') && c.includes('valves'))
@@ -377,10 +477,12 @@ function extractDistinction(question, wrong, correct) {
         return `The code requires that all building areas be within 6 meters of a nozzle on a 23-meter hose.`;
     if (q.includes('sprinkler pipes') && (q.includes('3') || q.includes('6')))
         return `Sprinkler pipes must be spaced 3 to 6 meters apart according to code requirements.`;
-    if (q.includes('figure a') || q.includes('Figure a'))
-        return `In the figure, "Upright" refers to a sprinkler head that stands upward from the pipe.`;
-    if (q.includes('figure b') || q.includes('Figure b'))
-        return `In the figure, "Pendent" refers to a sprinkler head that hangs downward from the pipe.`;
+    if (q.includes('twin-inlet') || q.includes('twin inlet'))
+        return `A Siamese twin connection has a twin-inlet fitting that allows multiple fire hoses to feed water into the system simultaneously.`;
+    if (q.includes('on top of the branch line') || q.includes('pointing upwards'))
+        return `An upright sprinkler head is mounted on top of the branch line piping and points upward, deflecting water downward in an umbrella pattern.`;
+    if (q.includes('pointing downwards') || q.includes('downwards from the branch'))
+        return `A pendent sprinkler head hangs down from the branch line piping and sprays water in a circular pattern below the ceiling.`;
     if (q.includes('basement parking'))
         return `Upright sprinklers are suitable for basement parking where obstructions and ceiling exposure require upward-facing heads.`;
     if (q.includes('freeze') && q.includes('inoperable'))
@@ -529,6 +631,12 @@ function buildInsight(question, wrong, correct) {
         return `"Grease trap" is specifically designed to capture grease before it enters the drainage system. The word "trap" here means it captures/retains grease.`;
     if (q.includes('minus') && q.includes('plus'))
         return `"Siphonage" is the direct result of positive and negative pressure imbalances caused by inadequate venting on traps. The clue is "direct effect."`;
+    if (q.includes('twin-inlet') || q.includes('twin inlet'))
+        return `The key phrase is "twin-inlet fitting." A Siamese twin connection specifically features this dual-inlet design, allowing two fire hoses to connect simultaneously for increased water flow.`;
+    if (q.includes('on top of the branch line') || q.includes('pointing upwards'))
+        return `The key detail is "on top of the branch line piping, pointing upwards." This precisely describes an upright sprinkler head — it sits on top of the pipe and deflects water downward.`;
+    if (q.includes('pointing downwards') || q.includes('downwards from the branch'))
+        return `The key detail is "pointing downwards from the branch line piping." A pendent sprinkler hangs below the pipe. Remember: pendent = pendant = hanging down.`;
 
     return `Think about the specific wording of the question. Each term in this domain has a precise definition. "${correct}" is the term that exactly matches the description. "${wrong}" may be related to the general topic but has a different specific meaning or application.`;
 }
@@ -555,13 +663,15 @@ function showWrongPopup(q, selected, correct) {
 function dismissPopup() {
     document.getElementById('popup-panel').classList.remove('visible');
     state.popupOpen = false;
-    advanceQuestion();
+    animateToNextQuestion();
 }
 
 function showResults() {
     showScreen('results');
     state.popupOpen = false;
     document.getElementById('popup-panel').classList.remove('visible');
+
+    clearSavedState();
 
     const questions = state.data.questions;
     const total = state.activeCount;

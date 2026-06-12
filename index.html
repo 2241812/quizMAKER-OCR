@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Mapúa Building Utilities Reviewer</title>
+    <meta name="description" content="Interactive quiz reviewer covering plumbing, fire protection, HVAC, electrical systems, and more for Mapúa University Building Utilities.">
     <link rel="stylesheet" href="main/src/style.css">
 </head>
 <body>
@@ -20,7 +21,7 @@
                 <p class="start-subtitle">Mapúa University</p>
                 <p class="start-desc">Test your knowledge with this interactive quiz covering plumbing, fire protection, HVAC, electrical systems, and more.</p>
                 <div class="start-meta">
-                    <span id="total-questions">110</span> questions available
+                    <span id="total-questions">101</span> questions available
                 </div>
                 <div class="start-options">
                     <label class="option-label">Questions to take</label>
@@ -29,10 +30,13 @@
                         <option value="20" selected>20</option>
                         <option value="30">30</option>
                         <option value="50">50</option>
-                        <option value="0">All 110</option>
+                        <option value="0">All 101</option>
                     </select>
                 </div>
-                <button class="btn btn-primary btn-large" onclick="startQuiz()">Begin Quiz</button>
+                <div class="start-actions">
+                    <button class="btn btn-primary btn-large" onclick="startQuiz()">Begin Quiz</button>
+                    <button class="btn btn-secondary btn-large" id="resume-btn" style="display:none" onclick="resumeQuiz()">Resume Last Quiz</button>
+                </div>
             </div>
         </div>
 
