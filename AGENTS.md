@@ -24,6 +24,7 @@ vercel --yes
 
 Vercel project name: `quizmaker-ocr` (lowercase).
 
+
 ## Notes
 
 - No build system, no package.json, no framework. Static content only.
