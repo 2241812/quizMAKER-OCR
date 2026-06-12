@@ -21,9 +21,7 @@
 ```sh
 vercel --yes
 ```
-
 Vercel project name: `quizmaker-ocr` (lowercase).
-
 
 ## Notes
 
