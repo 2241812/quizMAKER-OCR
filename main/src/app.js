@@ -1,4 +1,5 @@
-const SAVE_KEY = 'quiz-save-state';
+const QUIZ_NAME = typeof EXAM_NAME !== 'undefined' ? EXAM_NAME : (typeof DATA_FILE !== 'undefined' ? DATA_FILE.match(/(\w+)(?=\.json)/)?.[1] || 'quiz' : 'quiz');
+const SAVE_KEY = `quiz-save-${QUIZ_NAME}`;
 
 const state = {
     data: null,
@@ -19,6 +20,7 @@ const state = {
 
 document.addEventListener('DOMContentLoaded', async () => {
     loadTheme();
+    if (!document.getElementById('screen-start')) return;
     await loadQuiz();
     setupKeyboard();
     checkResume();
@@ -26,7 +28,8 @@ document.addEventListener('DOMContentLoaded', async () => {
 
 async function loadQuiz() {
     try {
-        const res = await fetch('main/data/quiz_data.json');
+        const dataFile = typeof DATA_FILE !== 'undefined' ? DATA_FILE : 'main/data/quiz_data.json';
+        const res = await fetch(dataFile);
         state.data = await res.json();
         state.totalAvailable = state.data.questions.length;
         document.getElementById('total-questions').textContent = state.totalAvailable;
@@ -651,10 +654,11 @@ function showWrongPopup(q, selected, correct) {
     document.getElementById('popup-correct-def').textContent = exp.correctDef;
     document.getElementById('popup-insight').textContent = exp.insight;
 
+    const suffix = typeof SEARCH_SUFFIX !== 'undefined' ? SEARCH_SUFFIX : 'building utilities plumbing';
     const wrongLink = document.getElementById('search-link-wrong');
-    wrongLink.href = `https://www.google.com/search?q=${encodeURIComponent(selected + ' building utilities plumbing')}`;
+    wrongLink.href = `https://www.google.com/search?q=${encodeURIComponent(selected + ' ' + suffix)}`;
     const correctLink = document.getElementById('search-link-correct');
-    correctLink.href = `https://www.google.com/search?q=${encodeURIComponent(correct + ' building utilities plumbing')}`;
+    correctLink.href = `https://www.google.com/search?q=${encodeURIComponent(correct + ' ' + suffix)}`;
 
     document.getElementById('popup-panel').classList.add('visible');
     document.getElementById('popup-got-it').focus();

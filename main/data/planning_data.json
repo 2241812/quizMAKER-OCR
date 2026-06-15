@@ -1,0 +1,1159 @@
+{
+  "title": "Mapúa Planning Exit Exam 2024",
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is the art and science of locating outdoor structures and activities and shaping the spaces between them?",
+      "choices": [
+        "Site planning",
+        "Landscape architecture",
+        "Urban planning",
+        "Regional planning"
+      ],
+      "answer": "Site planning"
+    },
+    {
+      "id": 2,
+      "question": "Eliminate the activity not included in the scope of regional planning.",
+      "choices": [
+        "Location of industries",
+        "Integrated management of natural resources",
+        "Integrated management of human resources",
+        "None"
+      ],
+      "answer": "None"
+    },
+    {
+      "id": 3,
+      "question": "What were the elements of planning involved in the Geddesian type of planning?",
+      "choices": [
+        "People",
+        "Environment",
+        "Work",
+        "All"
+      ],
+      "answer": "All"
+    },
+    {
+      "id": 4,
+      "question": "Select the activity not covered in regional planning.",
+      "choices": [
+        "Location of industries",
+        "Distribution of population",
+        "Formulation of land use and zoning",
+        "None"
+      ],
+      "answer": "None"
+    },
+    {
+      "id": 5,
+      "question": "What does landscape architecture try to achieve?",
+      "choices": [
+        "Environmental outcomes",
+        "Socio-behavioral outcomes",
+        "Aesthetic outcomes",
+        "All"
+      ],
+      "answer": "All"
+    },
+    {
+      "id": 6,
+      "question": "Select the statement that is related to comprehensive planning.",
+      "choices": [
+        "Based on community goals and objectives",
+        "Focused on arranging activities for events",
+        "Involved arranging of activities related to land use of the entire country",
+        "Focused on assigning the zoning of the city"
+      ],
+      "answer": "Based on community goals and objectives"
+    },
+    {
+      "id": 7,
+      "question": "What is the type of planning where community participation or grassroots approach is considered?",
+      "choices": [
+        "Bottom-up planning",
+        "Top-down planning",
+        "Grassroot planning",
+        "None"
+      ],
+      "answer": "Bottom-up planning"
+    },
+    {
+      "id": 8,
+      "question": "Characterize the pueblos in the Philippines during the Spanish period.",
+      "choices": [
+        "Presence of central public open space",
+        "Civic building surrounded the public open space",
+        "Affluent families lived near the center and lower income at the edge of the town where distance was enough to hear the bells",
+        "All"
+      ],
+      "answer": "All"
+    },
+    {
+      "id": 9,
+      "question": "Characterize the cities during the medieval times.",
+      "choices": [
+        "The church and the castle dominated the settlement skyline",
+        "Usually located on elevated ground",
+        "Settlements heavily fortified and roads were meandering",
+        "All"
+      ],
+      "answer": "All"
+    },
+    {
+      "id": 10,
+      "question": "Characterize Renaissance cities.",
+      "choices": [
+        "Streets were meandering to confuse the enemies.",
+        "City layout was formal balance with reference to the church.",
+        "The street layout was radial and at the center was the church.",
+        "All"
+      ],
+      "answer": "City layout was formal balance with reference to the church."
+    },
+    {
+      "id": 11,
+      "question": "What is the activity in the Urban Design Process where stakeholders were invited to actively take part in the design process activities?",
+      "choices": [
+        "Brainstorming",
+        "Public hearing",
+        "Focused group discussion",
+        "Charrette"
+      ],
+      "answer": "Charrette"
+    },
+    {
+      "id": 12,
+      "question": "What is the stage in site planning where the gathered data are interpreted?",
+      "choices": [
+        "Analysis",
+        "Synthesis",
+        "Implementation",
+        "Monitoring"
+      ],
+      "answer": "Analysis"
+    },
+    {
+      "id": 13,
+      "question": "What is the stage in planning where the analyzed data of site and user are put together to produce schemes?",
+      "choices": [
+        "Analysis",
+        "Synthesis",
+        "Implementation",
+        "Monitoring"
+      ],
+      "answer": "Synthesis"
+    },
+    {
+      "id": 14,
+      "question": "The vague, profound statement of the planning process geared toward the activities to be achieved at the end of the process.",
+      "choices": [
+        "Goal",
+        "Objective",
+        "Criteria",
+        "None"
+      ],
+      "answer": "Goal"
+    },
+    {
+      "id": 15,
+      "question": "Determine the phase where goals and objectives are checked when the project is already used.",
+      "choices": [
+        "Implementation",
+        "Evaluation",
+        "Analysis",
+        "Monitoring"
+      ],
+      "answer": "Evaluation"
+    },
+    {
+      "id": 16,
+      "question": "Select the defined circulation system not found in the city of Babylon.",
+      "choices": [
+        "Circulation along the Euphrates Riverfront",
+        "Streets were meandering.",
+        "Streets in grid layout",
+        "None"
+      ],
+      "answer": "Streets in grid layout"
+    },
+    {
+      "id": 17,
+      "question": "Select the requirement not found in the Laws of Indies.",
+      "choices": [
+        "Colonized settlement should be located near bodies of navigable waters.",
+        "Colonized settlements should be near settlement of the natives and agriculture.",
+        "Colonized settlements should follow the plaza complex layout.",
+        "None"
+      ],
+      "answer": "None"
+    },
+    {
+      "id": 18,
+      "question": "What is the central ring of the Multi-Nuclei Theory?",
+      "choices": [
+        "Central Business District",
+        "Zone of Transition",
+        "Workingman Zone",
+        "Outlying Business District"
+      ],
+      "answer": "Central Business District"
+    },
+    {
+      "id": 19,
+      "question": "What is the focus of von Thunen's Theory of location?",
+      "choices": [
+        "Commercial land use",
+        "Agricultural land use",
+        "Industrial Land use",
+        "Housing"
+      ],
+      "answer": "Agricultural land use"
+    },
+    {
+      "id": 20,
+      "question": "Proponent of Central Place Theory.",
+      "choices": [
+        "Ernest Burgess",
+        "Walter Chrystaller",
+        "Homer Hoyt",
+        "None"
+      ],
+      "answer": "Walter Chrystaller"
+    },
+    {
+      "id": 21,
+      "question": "What was the highlight of the Linear City of Soria Mata?",
+      "choices": [
+        "Cities developed along streets where utilities are installed",
+        "Cities are developed linearly along bodies of water.",
+        "Cities are built linearly to lessen confusing networks that caused utility and transportation traffic.",
+        "None"
+      ],
+      "answer": "Cities developed along streets where utilities are installed"
+    },
+    {
+      "id": 22,
+      "question": "What was the highlight of the \"Cities Beautiful Movement?",
+      "choices": [
+        "The physical appearance of the city improves the economic condition",
+        "The physical appearance of the city influences lessening the social ills of the city.",
+        "The city adopts a neoclassical style with beautiful landmarks along boulevards.",
+        "All"
+      ],
+      "answer": "All"
+    },
+    {
+      "id": 23,
+      "question": "The father of Human Settlement.",
+      "choices": [
+        "Soria Mata",
+        "Frank Lloyd Wright",
+        "Constantinos Doxiades",
+        "Henry Wright"
+      ],
+      "answer": "Constantinos Doxiades"
+    },
+    {
+      "id": 24,
+      "question": "What is the maximum population of the satellite city of the Garden City Concept?",
+      "choices": [
+        "58,000",
+        "50,000",
+        "32,000",
+        "10,000"
+      ],
+      "answer": "50,000"
+    },
+    {
+      "id": 25,
+      "question": "The proponent of Garden City Concept.",
+      "choices": [
+        "Charles Abrams",
+        "Ebenezer Howard",
+        "Patrick Geddes",
+        "Peter Hall"
+      ],
+      "answer": "Ebenezer Howard"
+    },
+    {
+      "id": 26,
+      "question": "Select the statement that is related to comprehensive planning.",
+      "choices": [
+        "Based on community goals and objectives",
+        "Focused on arranging activities for events.",
+        "Involved arranging of activities related to land use of the entire country.",
+        "Focused on assigning the zoning of the city"
+      ],
+      "answer": "Based on community goals and objectives"
+    },
+    {
+      "id": 27,
+      "question": "What are the characteristics of comprehensive planning?",
+      "choices": [
+        "Involves long-range planning.",
+        "Involves all the members of the planning area.",
+        "Considers all physical plans of the covered area",
+        "All"
+      ],
+      "answer": "All"
+    },
+    {
+      "id": 28,
+      "question": "Which of the following is included in land use planning?",
+      "choices": [
+        "Proper allocation of land",
+        "Proper management of land",
+        "Proper disposal of land",
+        "All"
+      ],
+      "answer": "All"
+    },
+    {
+      "id": 29,
+      "question": "What agency/office is mandated to prepare the Comprehensive Land use Plan (CLUP)?",
+      "choices": [
+        "Department of Environment and Natural Resources",
+        "Local Government Unit",
+        "National Government",
+        "National Economic and Development Authority"
+      ],
+      "answer": "Local Government Unit"
+    },
+    {
+      "id": 30,
+      "question": "What was formulated to effectively implement the Comprehensive Land-use Plan?",
+      "choices": [
+        "Zoning",
+        "National Building Code",
+        "Philippine Physical Framework Plan",
+        "Land use policies."
+      ],
+      "answer": "Zoning"
+    },
+    {
+      "id": 31,
+      "question": "What color is assigned to a memorial park as seen in the land use plan?",
+      "choices": [
+        "Red",
+        "Yellow",
+        "Violet",
+        "Green"
+      ],
+      "answer": "Violet"
+    },
+    {
+      "id": 32,
+      "question": "What does density in residential zone means?",
+      "choices": [
+        "The number of residential buildings in each zone",
+        "The number of people living in each zone",
+        "The income of an area in each zone",
+        "The coverage of an area in each zone"
+      ],
+      "answer": "The number of people living in each zone"
+    },
+    {
+      "id": 33,
+      "question": "What is the land use classification covering major public and semi-public use like educational, cultural, religious, and governmental services?",
+      "choices": [
+        "Governmental",
+        "Cultural",
+        "Institutional",
+        "Public"
+      ],
+      "answer": "Institutional"
+    },
+    {
+      "id": 34,
+      "question": "What is the activity in the Urban Design Process where stakeholders were invited to actively take part in the design process activities?",
+      "choices": [
+        "Brainstorming",
+        "Public hearing",
+        "Focused group discussion",
+        "Charrette"
+      ],
+      "answer": "Charrette"
+    },
+    {
+      "id": 35,
+      "question": "Which of the following promotes safety and crime prevention?",
+      "choices": [
+        "Presence of 24/7 establishments",
+        "Armed residence with high powered guns",
+        "Use of Tall solid fences for perimeter walls of the building",
+        "All"
+      ],
+      "answer": "Presence of 24/7 establishments"
+    },
+    {
+      "id": 36,
+      "question": "An element of urban aesthetics which may be man-made or natural. It is the focal point or the terminus that is strongly emphasized and framed and balanced by minor elements forming masses to enclose it.",
+      "choices": [
+        "Street",
+        "Vista",
+        "Focal point",
+        "Landmark"
+      ],
+      "answer": "Vista"
+    },
+    {
+      "id": 37,
+      "question": "Legibility means.",
+      "choices": [
+        "Placing signages so that travelers will find their way in the city",
+        "Arranging elements in the city according to history so that people will know the development of the area.",
+        "Properly arranging the elements in the city so that people will have ease of understanding the city.",
+        "All"
+      ],
+      "answer": "Properly arranging the elements in the city so that people will have ease of understanding the city."
+    },
+    {
+      "id": 38,
+      "question": "Understanding a city based on how well its elements were organized.",
+      "choices": [
+        "Wayfinding",
+        "Responsiveness",
+        "Adaptability",
+        "Resilience"
+      ],
+      "answer": "Wayfinding"
+    },
+    {
+      "id": 39,
+      "question": "The proponent of New Urbanism.",
+      "choices": [
+        "Ian Bentley",
+        "Andres Duany",
+        "Kevin Lynch",
+        "Ken Yeang"
+      ],
+      "answer": "Andres Duany"
+    },
+    {
+      "id": 40,
+      "question": "Visual appropriateness, according to Ian Bentley, is dependent on.",
+      "choices": [
+        "Visual details of the city",
+        "The organization of the buildings in the city",
+        "The urban landscape of the city",
+        "All"
+      ],
+      "answer": "All"
+    },
+    {
+      "id": 41,
+      "question": "In designing walkable streets, what will be the basis in determining the dimensions of the sidewalk according to the National Building Code?",
+      "choices": [
+        "Number of vehicles passing along the street",
+        "Number of pedestrians passing along the street.",
+        "The road right of way",
+        "The carriageway"
+      ],
+      "answer": "Number of pedestrians passing along the street."
+    },
+    {
+      "id": 42,
+      "question": "What is common among the elements of urban design as described in the \"City Image\" of Kevin Lynch? Example: Railroad break, Intramuros Wall, sea wall, city boundaries.",
+      "choices": [
+        "Landmark",
+        "Path",
+        "Edges",
+        "Nodes"
+      ],
+      "answer": "Edges"
+    },
+    {
+      "id": 43,
+      "question": "Describe the idea of Ian Bentley in Responsive Environment.",
+      "choices": [
+        "The more the private cars the greater the people's freedom to move, the greater the responsiveness of the place.",
+        "The cheaper the transport fare, the greater the people's freedom of movement and therefore the greater the freedom of movement of the place",
+        "The greater the number of alternative routes through an environment the greater the people's freedom of movement and therefore the greater the responsiveness of the place",
+        "None"
+      ],
+      "answer": "The greater the number of alternative routes through an environment the greater the people's freedom of movement and therefore the greater the responsiveness of the place"
+    },
+    {
+      "id": 44,
+      "question": "Legibility in urban design means.",
+      "choices": [
+        "Placing signages so that travelers will find their way in the city.",
+        "Arranging elements in the city according to history so that people will know the development of the area.",
+        "Properly arranging the elements in the city so that people will have ease of understanding the city.",
+        "All"
+      ],
+      "answer": "All"
+    },
+    {
+      "id": 45,
+      "question": "Which of the following does not support sustainable urban design?",
+      "choices": [
+        "Presence of mass transport system",
+        "Heavy reliance on fossil fuel energy source",
+        "Green infrastructure",
+        "Urban forest"
+      ],
+      "answer": "Heavy reliance on fossil fuel energy source"
+    },
+    {
+      "id": 46,
+      "question": "Which of the following contradicts the principle of New Urbanism in 1993?",
+      "choices": [
+        "To create a compact, mixed used developments",
+        "To promote walkable, transit-oriented development in local communities",
+        "To promote urban sprawl",
+        "To enhance the concept of neighborliness a strong emphasis on community opens social spaces"
+      ],
+      "answer": "To promote urban sprawl"
+    },
+    {
+      "id": 47,
+      "question": "In the study of Kevin Lynch \"Image of the City\" he used legibility as a term used to describe.",
+      "choices": [
+        "The ease with which people can understand the layout of the place.",
+        "The economic status of people as considerations for their position in space",
+        "The political status of people as a consideration for their position in space",
+        "The ecological condition of space as occupancy determinant of people"
+      ],
+      "answer": "The ease with which people can understand the layout of the place."
+    },
+    {
+      "id": 48,
+      "question": "In relation to sense of place, what is the reason why people are attracted to visit Tagaytay City to view the Taal Volcano frequently?",
+      "choices": [
+        "Topophilia",
+        "Biophilia",
+        "Geophilia",
+        "Venustaphilia"
+      ],
+      "answer": "Topophilia"
+    },
+    {
+      "id": 49,
+      "question": "What is the emotional bond or attachment a person experience when the person visits a city?",
+      "choices": [
+        "Sense of place",
+        "Legibility",
+        "Imageability",
+        "Place-making."
+      ],
+      "answer": "Sense of place"
+    },
+    {
+      "id": 50,
+      "question": "Which of the following design options does not reflect sustainability?",
+      "choices": [
+        "People need to travel long distances to get basic commodities.",
+        "There are enough green areas in the community that filter the air pollution and promote oxygen.",
+        "The aquifers in the area are not dry nor over-drawn with water.",
+        "None"
+      ],
+      "answer": "People need to travel long distances to get basic commodities."
+    },
+    {
+      "id": 51,
+      "question": "Design a \"defensive urban environment\".",
+      "choices": [
+        "A large park at the edge of the town near wide open spaces",
+        "A park surrounded by cafes and shops that allow shop staffs to see the activities within the park",
+        "A thousand car-parking area",
+        "A sidewalk with wide street on one side and very high solid fence on the other side"
+      ],
+      "answer": "A park surrounded by cafes and shops that allow shop staffs to see the activities within the park"
+    },
+    {
+      "id": 52,
+      "question": "What is the result when urban area grew in size, the tendency of urban areas increasing in sizes tend to merge with neighboring towns, cities or suburbs?",
+      "choices": [
+        "Conurbation",
+        "Urbanization",
+        "Metropolitanization",
+        "Concentration"
+      ],
+      "answer": "Conurbation"
+    },
+    {
+      "id": 53,
+      "question": "What is the concept space as seen in the design of traditional houses in the Philippines?",
+      "choices": [
+        "Space within a space",
+        "Space adjacent with another space",
+        "Communal space",
+        "Fenced-around space."
+      ],
+      "answer": "Space within a space"
+    },
+    {
+      "id": 54,
+      "question": "What is seen in traditional Filipino bayanihan practice?",
+      "choices": [
+        "Rooms surrounded by large windows.",
+        "Spaces are flexible.",
+        "People help in the construction of the house without pay",
+        "All of the above"
+      ],
+      "answer": "All of the above"
+    },
+    {
+      "id": 55,
+      "question": "What is a row house?",
+      "choices": [
+        "Housing type that is constructed one unit in one lot",
+        "Housing type that is constructed sharing common party walls.",
+        "Housing type consisting of units constructed vertically.",
+        "All"
+      ],
+      "answer": "Housing type that is constructed sharing common party walls."
+    },
+    {
+      "id": 56,
+      "question": "Select the statement not describing a slum community.",
+      "choices": [
+        "Illegally occupying a public or private land.",
+        "Poor physical condition of the site",
+        "Detrimental to health",
+        "Lacks socio-economic opportunities to the dwellers."
+      ],
+      "answer": "Lacks socio-economic opportunities to the dwellers."
+    },
+    {
+      "id": 57,
+      "question": "Who was the father of Ekistics?",
+      "choices": [
+        "Homer Hoyt",
+        "Von Thunen",
+        "Doxiades",
+        "Harris and Ullman"
+      ],
+      "answer": "Doxiades"
+    },
+    {
+      "id": 58,
+      "question": "What Sustainable Development Goals covers housing?",
+      "choices": [
+        "SDG 1",
+        "SDG 11",
+        "SDG 7",
+        "SDG 5"
+      ],
+      "answer": "SDG 11"
+    },
+    {
+      "id": 59,
+      "question": "What was the UN's ultimate objective for Housing?",
+      "choices": [
+        "Sustainable housing",
+        "Affordable housing",
+        "Housing for all",
+        "All"
+      ],
+      "answer": "All"
+    },
+    {
+      "id": 60,
+      "question": "What is the law for socialized and economic housing in the Philippines?",
+      "choices": [
+        "BP 344",
+        "BP 220",
+        "PD 957",
+        "PD 1096"
+      ],
+      "answer": "BP 220"
+    },
+    {
+      "id": 61,
+      "question": "What is the law for Subdivision and Condominium buyers Protective Decree?",
+      "choices": [
+        "BP 344",
+        "BP 220",
+        "PD 957",
+        "PD 1096"
+      ],
+      "answer": "PD 957"
+    },
+    {
+      "id": 62,
+      "question": "What is the National government agency mandated to make policies, plans and programs for the development of human settlements and urban areas in the country?",
+      "choices": [
+        "HUDCC",
+        "DHSUD",
+        "HLURB",
+        "UDHA"
+      ],
+      "answer": "DHSUD"
+    },
+    {
+      "id": 63,
+      "question": "In the National Physical Framework Plan (NFPP), what is included in settlements land use?",
+      "choices": [
+        "Rural And Urban",
+        "NIPAS AND NON-NIPAS",
+        "Production Land Use",
+        "All"
+      ],
+      "answer": "Rural And Urban"
+    },
+    {
+      "id": 64,
+      "question": "What is the national agency in charge of the production of socialized and economic housing?",
+      "choices": [
+        "NHA",
+        "HMFC",
+        "PAG IBIG",
+        "GSIS"
+      ],
+      "answer": "NHA"
+    },
+    {
+      "id": 65,
+      "question": "The housing approach where the community themselves are the doer in the site improvement of sites, construction of houses, with technical assistance and support from the government and organization.",
+      "choices": [
+        "Self-help approach",
+        "Sites and services approach",
+        "Complete house and lot package approach",
+        "All"
+      ],
+      "answer": "Self-help approach"
+    },
+    {
+      "id": 66,
+      "question": "The concept in the delivery of housing where multiple units are provided following the same construction and specification, design and located in one area as well as manage by one entity.",
+      "choices": [
+        "Mass housing.",
+        "Resilient housing",
+        "Smart housing",
+        "Eco-friendly housing"
+      ],
+      "answer": "Mass housing."
+    },
+    {
+      "id": 67,
+      "question": "What is not a characteristic of sustainable housing?",
+      "choices": [
+        "People will benefit from the design in terms of savings from utilities and renovation.",
+        "The environment is protected by the type of design produced.",
+        "The community is strong due to the provision of communal spaces.",
+        "None"
+      ],
+      "answer": "None"
+    },
+    {
+      "id": 68,
+      "question": "What does resilient house mean?",
+      "choices": [
+        "The house is designed so that it will not be damaged by the calamity.",
+        "The house is designed using sustainable materials so that it will not damage the environment.",
+        "The house is designed so that it can withstand the effects of the disaster at the same time it can recover fast from the effects of the calamity",
+        "All"
+      ],
+      "answer": "The house is designed so that it can withstand the effects of the disaster at the same time it can recover fast from the effects of the calamity"
+    },
+    {
+      "id": 69,
+      "question": "What type of housing delivery during the Marcos period where informal settlers were given a complete housing community facilities and amenities to decongest the metropolitan area?",
+      "choices": [
+        "Relocation",
+        "Resettlement",
+        "Slum upgrading.",
+        "Zonal improvement"
+      ],
+      "answer": "Resettlement"
+    },
+    {
+      "id": 70,
+      "question": "Select the characteristics not seen in CITIZEN CONTROL level of community participation in housing.",
+      "choices": [
+        "Community is empowered and is the one making rules.",
+        "Community is informed about the project and follows the organization in charge of the project.",
+        "The community manages the funds.",
+        "The community leaders have the personality to represent the community in meetings with government agencies."
+      ],
+      "answer": "Community is informed about the project and follows the organization in charge of the project."
+    },
+    {
+      "id": 71,
+      "question": "A parcel of land on which the principal building and its accessories are placed or may be placed together with the required open spaces is known as.",
+      "choices": [
+        "Vicinity map",
+        "TCT",
+        "Site Development Plan",
+        "Lot"
+      ],
+      "answer": "Lot"
+    },
+    {
+      "id": 72,
+      "question": "Select the information not found in the site development plan.",
+      "choices": [
+        "Proposed or existing structure",
+        "Location of trees",
+        "Location of septic tank, silos and other utilities",
+        "Technical description and dimensions of the site"
+      ],
+      "answer": "Location of trees"
+    },
+    {
+      "id": 73,
+      "question": "Select the reason not included in determining the importance of the soil to site planning.",
+      "choices": [
+        "Right plants can be specified in the site.",
+        "Soil absorption capacity",
+        "Specific land use to be assigned for specific soil.",
+        "None"
+      ],
+      "answer": "None"
+    },
+    {
+      "id": 74,
+      "question": "According to the Sanitation Code, what is the distance of the septic tank in the site in relation to the nearest natural body of water?",
+      "choices": [
+        "20 m",
+        "50 m",
+        "100 m",
+        "150 m"
+      ],
+      "answer": "50 m"
+    },
+    {
+      "id": 75,
+      "question": "In laying out parking spaces in a site, what is the dimension of PWD parking slot according to BP 344?",
+      "choices": [
+        "2.5 m x 5 m",
+        "4.00 m x 6.00 m",
+        "3.00 m x 6.00 m",
+        "3.70 m x 5.00 m"
+      ],
+      "answer": "3.70 m x 5.00 m"
+    },
+    {
+      "id": 76,
+      "question": "According to the Building Code, what is placed on the corners of lot along street intersections?",
+      "choices": [
+        "Setback",
+        "Variance",
+        "Chaflan",
+        "Easement"
+      ],
+      "answer": "Chaflan"
+    },
+    {
+      "id": 77,
+      "question": "The study needed in site planning focusing on the condition of bedrock suitable for development.",
+      "choices": [
+        "Soil study",
+        "Geological study",
+        "Soil bearing capacity.",
+        "Boring test"
+      ],
+      "answer": "Geological study"
+    },
+    {
+      "id": 78,
+      "question": "What slope of the site would you choose for low-cost housing?",
+      "choices": [
+        "0%",
+        "0% to 5%",
+        "0% to 10%",
+        "0% to 8%"
+      ],
+      "answer": "0% to 5%"
+    },
+    {
+      "id": 79,
+      "question": "What map will be used to compute the slope of the site?",
+      "choices": [
+        "Soil map",
+        "Topographical map",
+        "Elevation map",
+        "Contour map."
+      ],
+      "answer": "Contour map."
+    },
+    {
+      "id": 80,
+      "question": "Microclimate, as an important factor in site context, is focused on.",
+      "choices": [
+        "Climatic condition of the country",
+        "Daily climatic conditions",
+        "Climatic condition of the specific site",
+        "Climatic condition of the city"
+      ],
+      "answer": "Climatic condition of the specific site"
+    },
+    {
+      "id": 81,
+      "question": "Eliminate the type of soil that will have a hard time in draining a given site when it rains.",
+      "choices": [
+        "Loam",
+        "Clay",
+        "Silt",
+        "Sand"
+      ],
+      "answer": "Clay"
+    },
+    {
+      "id": 82,
+      "question": "What Map will you use to determine locations of disaster-prone areas?",
+      "choices": [
+        "Geologic map",
+        "Geo-hazard map",
+        "Derive map.",
+        "Thematic map"
+      ],
+      "answer": "Geo-hazard map"
+    },
+    {
+      "id": 83,
+      "question": "Select the analysis presentation connected to user mobility in a given site.",
+      "choices": [
+        "Matrix diagram",
+        "Circulation diagram",
+        "Interrelationship diagram",
+        "Zoning diagram"
+      ],
+      "answer": "Circulation diagram"
+    },
+    {
+      "id": 84,
+      "question": "Determine the site planning process/phase where goals and objectives are checked when the project is already used.",
+      "choices": [
+        "Implementation",
+        "Evaluation",
+        "Analysis",
+        "Monitoring"
+      ],
+      "answer": "Evaluation"
+    },
+    {
+      "id": 85,
+      "question": "Select the visual barrier you have to consider when your site is located inside Intramuros.",
+      "choices": [
+        "Bay leaf Hotel",
+        "Intramuros Wall",
+        "Intramuros Gate",
+        "None"
+      ],
+      "answer": "Intramuros Wall"
+    },
+    {
+      "id": 86,
+      "question": "Specify the most economical and sustainable application of soil stabilization to prevent erosion along sloping sides of the mountains along the street.",
+      "choices": [
+        "Riprap",
+        "Piling",
+        "Planting",
+        "All"
+      ],
+      "answer": "Planting"
+    },
+    {
+      "id": 87,
+      "question": "Green infrastructure is focused on.",
+      "choices": [
+        "Water management",
+        "Water sourcing",
+        "Water aesthetics"
+      ],
+      "answer": "Water management"
+    },
+    {
+      "id": 88,
+      "question": "Specify the primary role of wetlands in the environment.",
+      "choices": [
+        "Irrigation",
+        "Drainage",
+        "Waterscape",
+        "None"
+      ],
+      "answer": "Drainage"
+    },
+    {
+      "id": 89,
+      "question": "Specify the hardscape in landscape plan.",
+      "choices": [
+        "Benches",
+        "Fishpond",
+        "Plant box.",
+        "Carpet bedding."
+      ],
+      "answer": "Benches"
+    },
+    {
+      "id": 90,
+      "question": "What will you include, as landscape architecture element, a space for outdoor activity with defined floor and roof that allow partial sun's rays to penetrate on the floor?",
+      "choices": [
+        "Pergola",
+        "Trellis",
+        "Arbor",
+        "Gazebo"
+      ],
+      "answer": "Pergola"
+    },
+    {
+      "id": 91,
+      "question": "What is the reason why wetlands should be conserved?",
+      "choices": [
+        "Serve as natural drain of the area.",
+        "Serve as sponges in absorbing water run-off.",
+        "Serve as a place for animals and plants to live.",
+        "All"
+      ],
+      "answer": "All"
+    },
+    {
+      "id": 92,
+      "question": "Why is aquifer to be considered in site planning?",
+      "choices": [
+        "To protect the surface water in drying out",
+        "To protect the subsurface water from drying out",
+        "To protect water-runoff from drying out",
+        "All"
+      ],
+      "answer": "To protect the subsurface water from drying out"
+    },
+    {
+      "id": 93,
+      "question": "Which of the following is considered as sensuous using olfactory?",
+      "choices": [
+        "Seeing people",
+        "Aromatic vegetation",
+        "Waves of the sea",
+        "Roughness of the ground"
+      ],
+      "answer": "Aromatic vegetation"
+    },
+    {
+      "id": 94,
+      "question": "Which of the following is considered as sensuous using tactile?",
+      "choices": [
+        "Seeing people",
+        "Aromatic vegetation",
+        "Waves of the sea",
+        "Roughness of the ground"
+      ],
+      "answer": "Roughness of the ground"
+    },
+    {
+      "id": 95,
+      "question": "What are the sensuous elements that will be appreciated visually?",
+      "choices": [
+        "City skyline",
+        "Grouping of trees",
+        "Mountains",
+        "All"
+      ],
+      "answer": "All"
+    },
+    {
+      "id": 96,
+      "question": "Select the consideration that will not add value to the site.",
+      "choices": [
+        "Location of the site",
+        "Culture of the site",
+        "Laws and regulations where the site are located",
+        "View of the site"
+      ],
+      "answer": "Culture of the site"
+    },
+    {
+      "id": 97,
+      "question": "What sense is stimulated if you incorporated wind chime, encourage birds to visit the site and plant bamboos that make sounds when the wind blows?",
+      "choices": [
+        "Tactile stimulation",
+        "Auditory stimulation",
+        "Visual stimulation",
+        "Gastronomic stimulation"
+      ],
+      "answer": "Auditory stimulation"
+    },
+    {
+      "id": 98,
+      "question": "A site information used in site planning that describe of a group of people bounded by common custom, beliefs, practices and how it was organized.",
+      "choices": [
+        "Society",
+        "Neighborhood",
+        "Citizen",
+        "Community"
+      ],
+      "answer": "Community"
+    },
+    {
+      "id": 99,
+      "question": "What is macro-planning in site planning.",
+      "choices": [
+        "Arranging buildings and activities within the site",
+        "Arranging buildings and activities in relation to the project site's immediate man-made and natural surroundings",
+        "Specifying patterns and details in landscape",
+        "All"
+      ],
+      "answer": "Arranging buildings and activities in relation to the project site's immediate man-made and natural surroundings"
+    },
+    {
+      "id": 100,
+      "question": "Select the benefit of \"contextual\" analysis in a given site and project.",
+      "choices": [
+        "Site planner can enhance the value of the site when developed.",
+        "The site planner will know the impact of the surroundings on the development of the site/project and vice versa.",
+        "The site planner will know the impact of the surrounding the building that will be constructed in the site",
+        "All"
+      ],
+      "answer": "All"
+    },
+    {
+      "id": 101,
+      "question": "What specific law protects the site context of Intramuros as a Historical district based on the Comprehensive Land use Plan of Manila?",
+      "choices": [
+        "PD 1616",
+        "Zoning",
+        "National Heritage Act",
+        "National Building Code"
+      ],
+      "answer": "PD 1616"
+    },
+    {
+      "id": 102,
+      "question": "Microclimate, as an important factor in site context, focused on.",
+      "choices": [
+        "The climatic condition of the country",
+        "Climatic condition of a city",
+        "Climatic condition of the site and immediate surroundings",
+        "All"
+      ],
+      "answer": "Climatic condition of the site and immediate surroundings"
+    },
+    {
+      "id": 103,
+      "question": "Select the factors that contribute to the value of the site.",
+      "choices": [
+        "View",
+        "Access",
+        "Site circulation",
+        "All"
+      ],
+      "answer": "All"
+    },
+    {
+      "id": 104,
+      "question": "Which of the following is a physiological consideration in site planning?",
+      "choices": [
+        "Exposure of user to natural light and air",
+        "Provision of common spaces for bonding",
+        "Conservation of customs and traditions through space planning",
+        "All"
+      ],
+      "answer": "Exposure of user to natural light and air"
+    },
+    {
+      "id": 105,
+      "question": "What is Maslow's Theory all about?",
+      "choices": [
+        "Hierarchy of human needs",
+        "User anthropometrics",
+        "Hierarchy of human mobility",
+        "Behavior setting"
+      ],
+      "answer": "Hierarchy of human needs"
+    }
+  ]
+}
