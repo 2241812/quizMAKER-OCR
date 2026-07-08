@@ -1,0 +1,1125 @@
+{
+  "title": "Urban and Regional Planning AR176-1",
+  "questions": [
+    {
+      "id": 1,
+      "question": "A comprehensive plan for a rapidly urbanizing Philippine city must integrate land use, transportation, housing, and environmental management. This approach aligns most closely with which key characteristic of the planning process?",
+      "choices": [
+        "Time-bound",
+        "Multi-disciplinary",
+        "Comprehensive",
+        "Dynamic"
+      ],
+      "answer": "Comprehensive"
+    },
+    {
+      "id": 2,
+      "question": "According to the planning process, which attribute distinguishes planning from mere project management?",
+      "choices": [
+        "Fixed budget",
+        "Continuous and iterative with feedback loops",
+        "Single irreversible decision",
+        "Exclusively physical design"
+      ],
+      "answer": "Continuous and iterative with feedback loops"
+    },
+    {
+      "id": 3,
+      "question": "A student argues that city planning is purely a technical activity with no community involvement. Which attribute of planning contradicts this view?",
+      "choices": [
+        "Dynamic",
+        "Participatory",
+        "Time-bound",
+        "Cyclic"
+      ],
+      "answer": "Participatory"
+    },
+    {
+      "id": 4,
+      "question": "A planning consultant is hired to prepare a comprehensive plan. The first step should be:",
+      "choices": [
+        "Drafting the zoning ordinance",
+        "Conducting a situational analysis and data gathering",
+        "Designing urban renewal projects",
+        "Approving the final plan"
+      ],
+      "answer": "Conducting a situational analysis and data gathering"
+    },
+    {
+      "id": 5,
+      "question": "After five years of implementing a comprehensive plan, a city must re-assess conditions and adjust. This reflects which attribute of planning?",
+      "choices": [
+        "Static",
+        "Continuous and iterative",
+        "One-time project",
+        "Purely technical"
+      ],
+      "answer": "Continuous and iterative"
+    },
+    {
+      "id": 6,
+      "question": "According to Human Ecology as applied to planning, which concept describes how different population groups sort themselves out spatially within a city based on competition for resources?",
+      "choices": [
+        "Urban sprawl",
+        "Ecological succession",
+        "Gentrification",
+        "Decentralization"
+      ],
+      "answer": "Ecological succession"
+    },
+    {
+      "id": 7,
+      "question": "The process by which similar population groups cluster together in specific urban areas due to competition for land is known as:",
+      "choices": [
+        "Urban metabolism",
+        "Segregation and concentration",
+        "Carrying capacity",
+        "Human adaptation"
+      ],
+      "answer": "Segregation and concentration"
+    },
+    {
+      "id": 8,
+      "question": "A planner studying a Philippine city observes that a once-exclusive residential neighborhood has gradually been converted into commercial uses as the city expanded. This spatial change best illustrates:",
+      "choices": [
+        "Central Place Theory",
+        "Ecological succession in human settlements",
+        "The Sector Model",
+        "Garden City principles"
+      ],
+      "answer": "Ecological succession in human settlements"
+    },
+    {
+      "id": 9,
+      "question": "The concept of human ecology applies biological ecological principles to the study of:",
+      "choices": [
+        "Natural ecosystems only",
+        "Human communities and their spatial organization",
+        "Agricultural systems only",
+        "Marine environments"
+      ],
+      "answer": "Human communities and their spatial organization"
+    },
+    {
+      "id": 10,
+      "question": "Ekistics, as formulated by Constantinos Doxiadis, is the science of:",
+      "choices": [
+        "Human settlements",
+        "Ecological systems",
+        "Economic development",
+        "Transportation planning"
+      ],
+      "answer": "Human settlements"
+    },
+    {
+      "id": 11,
+      "question": "According to Ekistics, which of the following correctly lists Doxiadis' five elements of human settlements?",
+      "choices": [
+        "Nature, Man, Society, Shells, Networks",
+        "Land, Water, Air, Fire, Energy",
+        "Population, Housing, Transport, Economy, Environment",
+        "Housing, Commerce, Industry, Recreation, Government"
+      ],
+      "answer": "Nature, Man, Society, Shells, Networks"
+    },
+    {
+      "id": 12,
+      "question": "In Ekistics, the term 'Shells' refers to:",
+      "choices": [
+        "The natural environment",
+        "Buildings and physical structures within a settlement",
+        "Communication networks",
+        "Social structures"
+      ],
+      "answer": "Buildings and physical structures within a settlement"
+    },
+    {
+      "id": 13,
+      "question": "The ekistic logarithmic scale in Ekistics approaches settlement study across:",
+      "choices": [
+        "Three levels: local, regional, national",
+        "15 scale levels from individual dwelling to entire human settlement system",
+        "Only village to city",
+        "Only urban to rural"
+      ],
+      "answer": "15 scale levels from individual dwelling to entire human settlement system"
+    },
+    {
+      "id": 14,
+      "question": "A planner designing a new town applies Ekistics principles. The design should consider the interaction between:",
+      "choices": [
+        "Nature, Man, Society, Shells, and Networks",
+        "Roads, buildings, parks, schools, and hospitals",
+        "Economy, politics, culture, and technology",
+        "Land, water, air, and biodiversity"
+      ],
+      "answer": "Nature, Man, Society, Shells, and Networks"
+    },
+    {
+      "id": 15,
+      "question": "According to Christaller's Central Place Theory, which settlement type would have the largest threshold and highest-order goods?",
+      "choices": [
+        "Small agricultural town",
+        "Regional capital with specialized hospitals and universities",
+        "Barangay market center",
+        "Municipal center with public market"
+      ],
+      "answer": "Regional capital with specialized hospitals and universities"
+    },
+    {
+      "id": 16,
+      "question": "A planner notes that cities in a province are spaced farther apart than towns. Central Place Theory explains this because:",
+      "choices": [
+        "Cities are randomly distributed",
+        "Higher-order settlements require a larger threshold population for specialized functions",
+        "Government policy dictates minimum distances",
+        "Geographic barriers force wider spacing"
+      ],
+      "answer": "Higher-order settlements require a larger threshold population for specialized functions"
+    },
+    {
+      "id": 17,
+      "question": "If a specialty hospital requires 500,000 people to be viable, a city with 200,000 people:",
+      "choices": [
+        "Can still support it",
+        "Cannot support it; residents must travel to a higher-order settlement",
+        "Should build it to attract people",
+        "Can support it with subsidies"
+      ],
+      "answer": "Cannot support it; residents must travel to a higher-order settlement"
+    },
+    {
+      "id": 18,
+      "question": "Christaller developed Central Place Theory based on the study of settlement patterns in:",
+      "choices": [
+        "United States",
+        "Southern Germany",
+        "Philippines",
+        "Ancient Greece"
+      ],
+      "answer": "Southern Germany"
+    },
+    {
+      "id": 19,
+      "question": "In Burgess' Concentric Zone Model, the area surrounding the CBD characterized by deteriorating housing and land use transition is the:",
+      "choices": [
+        "Commuter Zone",
+        "Zone of Transition",
+        "Zone of Workingmen's Homes",
+        "Residential Zone"
+      ],
+      "answer": "Zone of Transition"
+    },
+    {
+      "id": 20,
+      "question": "The outermost ring of the Concentric Zone Model is the Commuter Zone, which in a Philippine context corresponds to:",
+      "choices": [
+        "CBD",
+        "Suburban municipalities and bedroom communities",
+        "Informal settler areas",
+        "Industrial zones"
+      ],
+      "answer": "Suburban municipalities and bedroom communities"
+    },
+    {
+      "id": 21,
+      "question": "A valid criticism of the Concentric Zone Model is that it:",
+      "choices": [
+        "Perfectly describes all modern cities",
+        "Assumes uniform land and transportation in all directions, ignoring physical barriers",
+        "Accounts for multiple centers",
+        "Overemphasizes transportation corridors"
+      ],
+      "answer": "Assumes uniform land and transportation in all directions, ignoring physical barriers"
+    },
+    {
+      "id": 22,
+      "question": "Hoyt's Sector Model argues that urban growth patterns are primarily shaped by:",
+      "choices": [
+        "Concentric rings",
+        "Transportation routes creating corridors of similar land use",
+        "Multiple independent nuclei",
+        "Random patterns"
+      ],
+      "answer": "Transportation routes creating corridors of similar land use"
+    },
+    {
+      "id": 23,
+      "question": "A planner observes high-income residential areas concentrated along a major highway extending from the CBD, with lower-income areas in between. This matches:",
+      "choices": [
+        "Concentric Zone Model",
+        "Sector Model",
+        "Multi-Nuclei Model",
+        "Central Place Theory"
+      ],
+      "answer": "Sector Model"
+    },
+    {
+      "id": 24,
+      "question": "When applying the Sector Model to a Philippine city, industrial sectors developing along the railway and affluent sectors along the highway illustrate:",
+      "choices": [
+        "Random market forces",
+        "Transportation corridors creating axial development patterns",
+        "Government zoning",
+        "Concentric CBD expansion"
+      ],
+      "answer": "Transportation corridors creating axial development patterns"
+    },
+    {
+      "id": 25,
+      "question": "Harris and Ullman's Multi-Nuclei Model explains that cities develop multiple centers because:",
+      "choices": [
+        "All cities grow from a single CBD",
+        "Certain land uses need specialized facilities that cluster in separate locations",
+        "Government policy creates multiple centers",
+        "Population density forces dispersal"
+      ],
+      "answer": "Certain land uses need specialized facilities that cluster in separate locations"
+    },
+    {
+      "id": 26,
+      "question": "According to the Multi-Nuclei Model, low-income housing near industrial zones exists because:",
+      "choices": [
+        "CBD expansion pushes low-income housing outward",
+        "Both need inexpensive land, and industry attracts workers needing nearby affordable housing",
+        "Government mandates mixed-income areas",
+        "Transportation only connects these areas"
+      ],
+      "answer": "Both need inexpensive land, and industry attracts workers needing nearby affordable housing"
+    },
+    {
+      "id": 27,
+      "question": "Which modern Philippine urban feature best illustrates the Multi-Nuclei Model's concept of multiple specialized centers?",
+      "choices": [
+        "A single downtown area",
+        "A business district in Makati, a government center in Manila, and a port area in Manila Bay",
+        "A uniformly developed city",
+        "Exclusively residential suburbs"
+      ],
+      "answer": "A business district in Makati, a government center in Manila, and a port area in Manila Bay"
+    },
+    {
+      "id": 28,
+      "question": "In Von Thünen's Theory of Agricultural Location, the innermost ring closest to the market contains:",
+      "choices": [
+        "Extensive grain farming",
+        "Intensive market gardening and dairy",
+        "Ranching",
+        "Forestry"
+      ],
+      "answer": "Intensive market gardening and dairy"
+    },
+    {
+      "id": 29,
+      "question": "Von Thünen explained that agricultural land use around a market is determined primarily by:",
+      "choices": [
+        "Labor availability",
+        "Transportation cost to market",
+        "Government incentives",
+        "Soil quality"
+      ],
+      "answer": "Transportation cost to market"
+    },
+    {
+      "id": 30,
+      "question": "According to Von Thünen, as distance from the market increases, agricultural land use becomes:",
+      "choices": [
+        "More intensive",
+        "Less intensive and more extensive",
+        "More diversified",
+        "Unaffected"
+      ],
+      "answer": "Less intensive and more extensive"
+    },
+    {
+      "id": 31,
+      "question": "Alfred Weber's Theory of Industrial Location states that optimal factory location minimizes three costs:",
+      "choices": [
+        "Land, labor, and capital",
+        "Transportation, labor, and agglomeration",
+        "Raw materials, energy, and taxes",
+        "Rent, wages, and utilities"
+      ],
+      "answer": "Transportation, labor, and agglomeration"
+    },
+    {
+      "id": 32,
+      "question": "An industry producing heavy, bulky products from widely available raw materials would locate:",
+      "choices": [
+        "Near the market",
+        "Near raw materials",
+        "Near skilled labor",
+        "In low-tax areas"
+      ],
+      "answer": "Near the market"
+    },
+    {
+      "id": 33,
+      "question": "Weber's concept of agglomeration refers to:",
+      "choices": "The clustering of industries to share infrastructure, services, and labor pools, reducing costs",
+      "answer": [
+        "Dispersal of industries",
+        "Government subsidies",
+        "Transport optimization"
+      ]
+    },
+    {
+      "id": 34,
+      "question": "The Indus Valley city of Mohenjo-Daro demonstrates that ancient civilizations had:",
+      "choices": [
+        "No organized planning",
+        "Advanced drainage, grid layouts, and public wells",
+        "Only military planning",
+        "Exclusively religious structures"
+      ],
+      "answer": "Advanced drainage, grid layouts, and public wells"
+    },
+    {
+      "id": 35,
+      "question": "The Hippodamian plan, used in ancient Greek cities like Miletus, is characterized by:",
+      "choices": [
+        "Radiocentric streets",
+        "A grid system with designated public spaces",
+        "Irregular organic streets",
+        "Fortress walls only"
+      ],
+      "answer": "A grid system with designated public spaces"
+    },
+    {
+      "id": 36,
+      "question": "Renaissance planning was characterized by:",
+      "choices": [
+        "Organic winding streets",
+        "Geometric order, radial patterns, and monumental public spaces",
+        "Industrial layouts",
+        "Religious temple complexes"
+      ],
+      "answer": "Geometric order, radial patterns, and monumental public spaces"
+    },
+    {
+      "id": 37,
+      "question": "Renaissance popes redesigned Rome with straight streets and piazzas motivated by:",
+      "choices": [
+        "Military defense",
+        "Papal authority, civic pride, and humanist ideals",
+        "Agricultural efficiency",
+        "Industrial needs"
+      ],
+      "answer": "Papal authority, civic pride, and humanist ideals"
+    },
+    {
+      "id": 38,
+      "question": "Ancient Greek city planning emphasized:",
+      "choices": "The integration of public spaces (agora), civic institutions, and defensive planning",
+      "answer": [
+        "Only religious temples",
+        "Commercial districts only",
+        "Military fortifications only"
+      ]
+    },
+    {
+      "id": 39,
+      "question": "The Industrial Revolution made modern urban planning necessary primarily because of:",
+      "choices": [
+        "Lack of monumental architecture",
+        "Overcrowding, poor sanitation, and disease in rapidly growing industrial cities",
+        "Insufficient parks",
+        "Excessive building heights"
+      ],
+      "answer": "Overcrowding, poor sanitation, and disease in rapidly growing industrial cities"
+    },
+    {
+      "id": 40,
+      "question": "Ebenezer Howard's Garden City movement proposed:",
+      "choices": [
+        "High-density skyscraper development",
+        "Self-contained communities with greenbelts balancing housing and employment",
+        "Monumental boulevards only",
+        "Linear industrial corridors"
+      ],
+      "answer": "Self-contained communities with greenbelts balancing housing and employment"
+    },
+    {
+      "id": 41,
+      "question": "The City Beautiful movement emphasized:",
+      "choices": [
+        "Efficient highways",
+        "Monumental architecture, grand boulevards, and civic centers",
+        "Decentralization to suburbs",
+        "Industrial efficiency"
+      ],
+      "answer": "Monumental architecture, grand boulevards, and civic centers"
+    },
+    {
+      "id": 42,
+      "question": "The shift from Industrial Revolution to contemporary planning was marked by greater concern for:",
+      "choices": [
+        "Industrial efficiency",
+        "Social equity, environmental sustainability, and public participation",
+        "Monumental design",
+        "Private property exclusively"
+      ],
+      "answer": "Social equity, environmental sustainability, and public participation"
+    },
+    {
+      "id": 43,
+      "question": "The American colonial period influenced Philippine planning most through:",
+      "choices": [
+        "Islamic urban design",
+        "City Beautiful movement (civic centers, parks, government buildings)",
+        "Medieval European patterns",
+        "Japanese garden concepts"
+      ],
+      "answer": "City Beautiful movement (civic centers, parks, government buildings)"
+    },
+    {
+      "id": 44,
+      "question": "After identifying problems and setting goals in the planning process, the next step is:",
+      "choices": [
+        "Immediate implementation",
+        "Generate and evaluate alternative strategies",
+        "Secure funding",
+        "Public consultation"
+      ],
+      "answer": "Generate and evaluate alternative strategies"
+    },
+    {
+      "id": 45,
+      "question": "In the planning process, after plan implementation, the planning department should:",
+      "choices": [
+        "Close the project",
+        "Monitor whether outcomes match goals and adjust as needed",
+        "Write a new plan from scratch",
+        "Wait 20 years before reviewing"
+      ],
+      "answer": "Monitor whether outcomes match goals and adjust as needed"
+    },
+    {
+      "id": 46,
+      "question": "The 'Three Folding Image of Society' in planning emphasizes the relationship between:",
+      "choices": [
+        "Land, labor, and capital",
+        "Government, market, and civil society in urban development",
+        "Past, present, and future",
+        "Urban, suburban, and rural"
+      ],
+      "answer": "Government, market, and civil society in urban development"
+    },
+    {
+      "id": 47,
+      "question": "A CLUP identifies areas for urban expansion. The Zoning Ordinance must then:",
+      "choices": [
+        "Replace the CLUP",
+        "Translate CLUP policies into legally enforceable regulations on permitted uses and densities",
+        "Be prepared before the CLUP",
+        "Remain separate from the CLUP"
+      ],
+      "answer": "Translate CLUP policies into legally enforceable regulations on permitted uses and densities"
+    },
+    {
+      "id": 48,
+      "question": "An area with steep slopes and erodible soil in a watershed should be classified as:",
+      "choices": [
+        "High-density residential",
+        "Protected area or conservation zone",
+        "Commercial zone",
+        "Industrial"
+      ],
+      "answer": "Protected area or conservation zone"
+    },
+    {
+      "id": 49,
+      "question": "A planner evaluates a proposed residential subdivision. The area's road capacity and water supply cannot support higher density without major upgrades. The appropriate zoning is:",
+      "choices": [
+        "High-density",
+        "Low-density with infrastructure limitations as justification",
+        "No zoning needed",
+        "Mixed-use high-density"
+      ],
+      "answer": "Low-density with infrastructure limitations as justification"
+    },
+    {
+      "id": 50,
+      "question": "Designating a green belt around a metropolitan area to control sprawl was popularized by:",
+      "choices": [
+        "City Beautiful",
+        "Garden City Movement (Howard)",
+        "Modernist Planning",
+        "New Urbanism"
+      ],
+      "answer": "Garden City Movement (Howard)"
+    },
+    {
+      "id": 51,
+      "question": "The compact city and mixed-use development approach promotes:",
+      "choices": [
+        "Urban sprawl",
+        "Walkable neighborhoods with a mix of uses reducing car dependency",
+        "Single-use zoning",
+        "Exclusive residential development"
+      ],
+      "answer": "Walkable neighborhoods with a mix of uses reducing car dependency"
+    },
+    {
+      "id": 52,
+      "question": "The concept of 'sustainable yield' is most applicable to:",
+      "choices": [
+        "Non-renewable minerals",
+        "Renewable resources where use must not exceed regeneration capacity",
+        "Financial resources",
+        "Human resources"
+      ],
+      "answer": "Renewable resources where use must not exceed regeneration capacity"
+    },
+    {
+      "id": 53,
+      "question": "Optimal resource allocation in planning means:",
+      "choices": [
+        "Using resources as fast as possible",
+        "Distributing resources among competing uses to maximize long-term public benefit",
+        "Allocating to highest bidder",
+        "Reserving everything for the future"
+      ],
+      "answer": "Distributing resources among competing uses to maximize long-term public benefit"
+    },
+    {
+      "id": 54,
+      "question": "A city's ecological profile shows groundwater depletion exceeding recharge. The best response is:",
+      "choices": [
+        "Allow unlimited extraction",
+        "Implement groundwater regulation, limit extraction, promote conservation and rainwater harvesting",
+        "Ignore the finding",
+        "Relocate the city"
+      ],
+      "answer": "Implement groundwater regulation, limit extraction, promote conservation and rainwater harvesting"
+    },
+    {
+      "id": 55,
+      "question": "A coastal tourist island's water supply supports at most 5,000 tourists daily. This finding should:",
+      "choices": [
+        "Be ignored for economic growth",
+        "Limit tourist arrivals and plan infrastructure within ecological limits",
+        "Support unlimited development",
+        "Close the island"
+      ],
+      "answer": "Limit tourist arrivals and plan infrastructure within ecological limits"
+    },
+    {
+      "id": 56,
+      "question": "A watershed plan identifies upland deforestation causing downstream flooding. The best direct response:",
+      "choices": [
+        "Build higher flood walls",
+        "Implement reforestation and soil conservation in uplands",
+        "Construct more drainage",
+        "Relocate downstream communities"
+      ],
+      "answer": "Implement reforestation and soil conservation in uplands"
+    },
+    {
+      "id": 57,
+      "question": "A steep, heavily forested watershed area with high biodiversity should be classified as:",
+      "choices": [
+        "Settlement zone",
+        "Protection zone with restricted use",
+        "Production zone for timber",
+        "Industrial zone"
+      ],
+      "answer": "Protection zone with restricted use"
+    },
+    {
+      "id": 58,
+      "question": "A river basin plan balancing flood control, water supply, and ecosystem protection requires:",
+      "choices": [
+        "Focus on one priority only",
+        "Integrated watershed management considering all functions and stakeholders",
+        "Separate uncoordinated agency actions",
+        "Exclusive hydropower focus"
+      ],
+      "answer": "Integrated watershed management considering all functions and stakeholders"
+    },
+    {
+      "id": 59,
+      "question": "Agricultural runoff causing reservoir sedimentation is best addressed by:",
+      "choices": [
+        "Regular dredging",
+        "Soil conservation and riparian buffers in upland farms",
+        "Building higher dams",
+        "Relocating the reservoir"
+      ],
+      "answer": "Soil conservation and riparian buffers in upland farms"
+    },
+    {
+      "id": 60,
+      "question": "In post-disaster recovery planning, before preparing sectoral rehabilitation plans, what must be completed first?",
+      "choices": [
+        "New building construction",
+        "Damage and Needs Assessment",
+        "Land use revision",
+        "Public consultation"
+      ],
+      "answer": "Damage and Needs Assessment"
+    },
+    {
+      "id": 61,
+      "question": "A disaster recovery plan includes provisions for repairing schools and hospitals to higher safety standards. This falls under:",
+      "choices": [
+        "Housing",
+        "Social services and public facilities",
+        "Infrastructure",
+        "Livelihoods"
+      ],
+      "answer": "Social services and public facilities"
+    },
+    {
+      "id": 62,
+      "question": "The 'Build Back Better' principle means reconstruction should:",
+      "choices": [
+        "Rebuild exactly as before",
+        "Improve resilience, safety, and living standards through better design",
+        "Relocate everyone",
+        "Focus only on infrastructure"
+      ],
+      "answer": "Improve resilience, safety, and living standards through better design"
+    },
+    {
+      "id": 63,
+      "question": "Cash-for-work programs and small business grants after a disaster fall under:",
+      "choices": [
+        "Housing",
+        "Infrastructure",
+        "Livelihoods and local economy",
+        "Social services"
+      ],
+      "answer": "Livelihoods and local economy"
+    },
+    {
+      "id": 64,
+      "question": "A coastal community restoring mangroves for storm surge protection is an example of:",
+      "choices": [
+        "Gray infrastructure",
+        "Nature-based solutions for disaster risk reduction",
+        "Hard engineering",
+        "Retrofitting"
+      ],
+      "answer": "Nature-based solutions for disaster risk reduction"
+    },
+    {
+      "id": 65,
+      "question": "An appropriate indicator for monitoring post-disaster housing recovery is:",
+      "choices": [
+        "Meetings held",
+        "Houses rebuilt and compliance with safety standards",
+        "Aid pledged",
+        "News articles published"
+      ],
+      "answer": "Houses rebuilt and compliance with safety standards"
+    },
+    {
+      "id": 66,
+      "question": "The first step in disaster preparedness for a hazard-prone barangay is:",
+      "choices": [
+        "Build evacuation centers",
+        "Conduct risk assessment identifying hazards and vulnerabilities",
+        "Request national funding",
+        "Relocate everyone immediately"
+      ],
+      "answer": "Conduct risk assessment identifying hazards and vulnerabilities"
+    },
+    {
+      "id": 67,
+      "question": "The ecological profile is a planning instrument used to evaluate:",
+      "choices": [
+        "Building structural integrity",
+        "Environmental quality and carrying capacity",
+        "Economic growth rate",
+        "Population density alone"
+      ],
+      "answer": "Environmental quality and carrying capacity"
+    },
+    {
+      "id": 68,
+      "question": "Which is NOT a core objective of an ecological profile?",
+      "choices": [
+        "Describe existing environmental condition",
+        "Determine carrying capacity",
+        "Prepare project EIS",
+        "Identify risks and constraints"
+      ],
+      "answer": "Prepare project EIS"
+    },
+    {
+      "id": 69,
+      "question": "Biophysical data in an ecological profile includes:",
+      "choices": [
+        "Population and housing",
+        "Landform, slope, soil, geology, climate, hydrology, and vegetation",
+        "Economic activities",
+        "Government policies"
+      ],
+      "answer": "Landform, slope, soil, geology, climate, hydrology, and vegetation"
+    },
+    {
+      "id": 70,
+      "question": "Participatory mapping in ecological profiling involves:",
+      "choices": [
+        "Satellite imagery analysis",
+        "Communities identifying flood paths, resource areas, and hazard zones",
+        "Computer-only modeling",
+        "Government data only"
+      ],
+      "answer": "Communities identifying flood paths, resource areas, and hazard zones"
+    },
+    {
+      "id": 71,
+      "question": "When government data conflicts with ground conditions, the best next step is:",
+      "choices": [
+        "Use only official data",
+        "Conduct field validation to verify secondary data",
+        "Abandon the process",
+        "Use only the recent data"
+      ],
+      "answer": "Conduct field validation to verify secondary data"
+    },
+    {
+      "id": 72,
+      "question": "DEPDEV replaced NEDA as the country's main body for:",
+      "choices": [
+        "Building regulation",
+        "Economic and development planning including policy integration and investment prioritization",
+        "Environmental management",
+        "Housing policy"
+      ],
+      "answer": "Economic and development planning including policy integration and investment prioritization"
+    },
+    {
+      "id": 73,
+      "question": "DHSUD is the lead agency for:",
+      "choices": [
+        "National economic policy",
+        "Human settlements, urban development, and land use planning",
+        "Environmental regulation",
+        "Infrastructure projects"
+      ],
+      "answer": "Human settlements, urban development, and land use planning"
+    },
+    {
+      "id": 74,
+      "question": "The main institutional challenge in Philippine planning is:",
+      "choices": [
+        "Too many well-coordinated agencies",
+        "Fragmentation of functions across multiple agencies causing overlaps and conflicts",
+        "Excessive local autonomy",
+        "Lack of planning laws"
+      ],
+      "answer": "Fragmentation of functions across multiple agencies causing overlaps and conflicts"
+    },
+    {
+      "id": 75,
+      "question": "The gap between 'planning on paper and in practice' arises when:",
+      "choices": [
+        "Plans are too detailed",
+        "Plans are outdated, weakly enforced, or not synchronized with budgets",
+        "Too many planners exist",
+        "Community participation is excessive"
+      ],
+      "answer": "Plans are outdated, weakly enforced, or not synchronized with budgets"
+    },
+    {
+      "id": 76,
+      "question": "Linking the CLUP with the development plan and annual investment program is critical for:",
+      "choices": [
+        "Beautiful documents",
+        "Bridging planning and implementation",
+        "Avoiding community input",
+        "Speeding up construction"
+      ],
+      "answer": "Bridging planning and implementation"
+    },
+    {
+      "id": 77,
+      "question": "To ensure plans are both technically sound and legally adopted, which bodies must be involved?",
+      "choices": [
+        "Planning office only",
+        "Planning office, development council, and legislative body",
+        "Mayor only",
+        "National government only"
+      ],
+      "answer": "Planning office, development council, and legislative body"
+    },
+    {
+      "id": 78,
+      "question": "Under PD 1096, the National Building Code establishes:",
+      "choices": [
+        "Maximum building heights only",
+        "Minimum requirements for planning, design, construction, occupancy, and maintenance",
+        "Architectural style standards",
+        "Property tax rates"
+      ],
+      "answer": "Minimum requirements for planning, design, construction, occupancy, and maintenance"
+    },
+    {
+      "id": 79,
+      "question": "The power of LGUs to enact zoning ordinances derives from:",
+      "choices": [
+        "Eminent domain",
+        "Police power inherent to the state for regulating land use for public welfare",
+        "Right of way",
+        "Taxation"
+      ],
+      "answer": "Police power inherent to the state for regulating land use for public welfare"
+    },
+    {
+      "id": 80,
+      "question": "BP 344, the Accessibility Law, requires:",
+      "choices": [
+        "Minimum building height",
+        "Buildings designed for persons with disabilities",
+        "Maximum floor area",
+        "Green building certification"
+      ],
+      "answer": "Buildings designed for persons with disabilities"
+    },
+    {
+      "id": 81,
+      "question": "A variance in zoning may be granted when:",
+      "choices": [
+        "It permanently changes the zoning map",
+        "The minimum deviation needed for reasonable property use without harming public welfare",
+        "The owner demands it",
+        "The project is large"
+      ],
+      "answer": "The minimum deviation needed for reasonable property use without harming public welfare"
+    },
+    {
+      "id": 82,
+      "question": "PD 957 protects subdivision lot buyers by:",
+      "choices": [
+        "Giving free lots to government",
+        "Ensuring transparency and regulating development standards with remedies for fraud",
+        "Eliminating buyer rights",
+        "Requiring government purchase of unsold lots"
+      ],
+      "answer": "Ensuring transparency and regulating development standards with remedies for fraud"
+    },
+    {
+      "id": 83,
+      "question": "Presidential Decrees in the Philippine legal system were issued during:",
+      "choices": [
+        "1899-1935",
+        "1972-1986 under Marcos",
+        "1946-1972",
+        "1986-1987"
+      ],
+      "answer": "1972-1986 under Marcos"
+    },
+    {
+      "id": 84,
+      "question": "Environmental Impact Assessment is best described as:",
+      "choices": [
+        "A post-construction audit",
+        "A systematic process for predicting environmental consequences before construction",
+        "A building permit requirement",
+        "A financial feasibility study"
+      ],
+      "answer": "A systematic process for predicting environmental consequences before construction"
+    },
+    {
+      "id": 85,
+      "question": "Projects requiring full EIA under the Philippine EIS System are classified as:",
+      "choices": [
+        "Small-scale projects",
+        "Environmentally Critical Projects (ECPs)",
+        "All private projects",
+        "Government projects only"
+      ],
+      "answer": "Environmentally Critical Projects (ECPs)"
+    },
+    {
+      "id": 86,
+      "question": "Which is considered an Environmentally Critical Area (ECA)?",
+      "choices": [
+        "Private commercial lot",
+        "Mangrove area serving as coastal buffer",
+        "Residential subdivision",
+        "Industrial park"
+      ],
+      "answer": "Mangrove area serving as coastal buffer"
+    },
+    {
+      "id": 87,
+      "question": "The Philippine EIS System was established by:",
+      "choices": [
+        "PD 1151",
+        "PD 1586",
+        "RA 7160",
+        "PD 1096"
+      ],
+      "answer": "PD 1586"
+    },
+    {
+      "id": 88,
+      "question": "A Certificate of Non-Coverage (CNC) applies to:",
+      "choices": [
+        "High-impact projects",
+        "Small-scale, low-impact projects exempt from full EIA",
+        "All projects without exception",
+        "Projects in ECAs"
+      ],
+      "answer": "Small-scale, low-impact projects exempt from full EIA"
+    },
+    {
+      "id": 89,
+      "question": "PD 1152, the Philippine Environment Code, provides guidelines for:",
+      "choices": [
+        "Presidential succession",
+        "Air quality, water quality, waste management, and land use",
+        "Building design",
+        "Taxation"
+      ],
+      "answer": "Air quality, water quality, waste management, and land use"
+    },
+    {
+      "id": 90,
+      "question": "During EIA scoping, the team should:",
+      "choices": [
+        "Construct the project",
+        "Identify key environmental issues and define study boundaries",
+        "Issue the ECC",
+        "Conduct post-construction monitoring"
+      ],
+      "answer": "Identify key environmental issues and define study boundaries"
+    },
+    {
+      "id": 91,
+      "question": "Secondary effects like population influx from a new industrial zone are classified as:",
+      "choices": [
+        "Direct impacts",
+        "Indirect impacts",
+        "Cumulative impacts",
+        "Residual impacts"
+      ],
+      "answer": "Indirect impacts"
+    },
+    {
+      "id": 92,
+      "question": "Combined effects of multiple projects over time in the same area are:",
+      "choices": [
+        "Direct impacts",
+        "Indirect impacts",
+        "Cumulative impacts",
+        "Residual impacts"
+      ],
+      "answer": "Cumulative impacts"
+    },
+    {
+      "id": 93,
+      "question": "Under the EIA mitigation hierarchy, the FIRST priority is:",
+      "choices": [
+        "Compensation",
+        "Avoidance",
+        "Minimization",
+        "Rehabilitation"
+      ],
+      "answer": "Avoidance"
+    },
+    {
+      "id": 94,
+      "question": "The Environmental Management Plan (EMP) should include:",
+      "choices": [
+        "Marketing strategy",
+        "Mitigation measures, monitoring program, schedule, and responsible parties",
+        "Financial projections",
+        "Architectural design"
+      ],
+      "answer": "Mitigation measures, monitoring program, schedule, and responsible parties"
+    },
+    {
+      "id": 95,
+      "question": "Loss of fishing livelihoods from a reclamation project is a:",
+      "choices": [
+        "Physical impact",
+        "Socio-economic impact",
+        "Geological impact",
+        "Aesthetic impact"
+      ],
+      "answer": "Socio-economic impact"
+    },
+    {
+      "id": 96,
+      "question": "After ECC issuance with conditions, compliance responsibility lies with:",
+      "choices": [
+        "DENR only",
+        "The project proponent subject to DENR-EMB monitoring",
+        "LGU only",
+        "Community"
+      ],
+      "answer": "The project proponent subject to DENR-EMB monitoring"
+    },
+    {
+      "id": 97,
+      "question": "SDG 11 aims to make cities and human settlements:",
+      "choices": [
+        "Wealthy and highly developed",
+        "Inclusive, safe, resilient, and sustainable",
+        "Large and populous",
+        "Technologically advanced"
+      ],
+      "answer": "Inclusive, safe, resilient, and sustainable"
+    },
+    {
+      "id": 98,
+      "question": "SDG 11.6 aims to reduce environmental impact of cities, focusing especially on:",
+      "choices": [
+        "Building heights",
+        "Air quality and waste management",
+        "Road width",
+        "Population density"
+      ],
+      "answer": "Air quality and waste management"
+    },
+    {
+      "id": 99,
+      "question": "An action that directly operationalizes SDG 11's housing target is:",
+      "choices": [
+        "Building luxury condos",
+        "Upgrading informal settlements with basic services and secure tenure",
+        "Privatizing public spaces",
+        "Building toll roads"
+      ],
+      "answer": "Upgrading informal settlements with basic services and secure tenure"
+    },
+    {
+      "id": 100,
+      "question": "SDG 10 (Reduced Inequalities) relates to planning when:",
+      "choices": [
+        "Only wealthy areas get facilities",
+        "Public facilities are equitably distributed across all districts",
+        "Poor districts are ignored",
+        "Services are privatized"
+      ],
+      "answer": "Public facilities are equitably distributed across all districts"
+    },
+    {
+      "id": 101,
+      "question": "Transit-oriented development around a railway station aligns with which SDG target?",
+      "choices": [
+        "SDG 2",
+        "SDG 11's sustainable transport target",
+        "SDG 14",
+        "SDG 7"
+      ],
+      "answer": "SDG 11's sustainable transport target"
+    },
+    {
+      "id": 102,
+      "question": "SDG 17 (Partnerships) relates to planning because effective planning needs:",
+      "choices": [
+        "National government only",
+        "Multi-stakeholder collaboration and community engagement",
+        "Private sector only",
+        "International agencies only"
+      ],
+      "answer": "Multi-stakeholder collaboration and community engagement"
+    }
+  ]
+}
