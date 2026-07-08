@@ -10,7 +10,8 @@
         "Comprehensive",
         "Dynamic"
       ],
-      "answer": "Comprehensive"
+      "answer": "Comprehensive",
+      "source": "PLANNING INSTITUTIONS IN THE PHILIPPINES (20-PLANNING-INSTITUTIONS-IN-THE-PHILIPPINES.html)"
     },
     {
       "id": 2,
@@ -21,7 +22,8 @@
         "Single irreversible decision",
         "Exclusively physical design"
       ],
-      "answer": "Continuous and iterative with feedback loops"
+      "answer": "Continuous and iterative with feedback loops",
+      "source": "URBAN AND REGIONAL PLANNING (01-URBAN-AND-REGIONAL-PLANNING.html)"
     },
     {
       "id": 3,
@@ -32,7 +34,8 @@
         "Time-bound",
         "Cyclic"
       ],
-      "answer": "Participatory"
+      "answer": "Participatory",
+      "source": "PLANNING PROCESS (12-PLANNING-PROCESS.html)"
     },
     {
       "id": 4,
@@ -43,7 +46,8 @@
         "Designing urban renewal projects",
         "Approving the final plan"
       ],
-      "answer": "Conducting a situational analysis and data gathering"
+      "answer": "Conducting a situational analysis and data gathering",
+      "source": "DOCUMENTING THE CITY ECOLOGICAL PROFILE (19-DOCUMENTING-THE-CITY-ECOLOGICAL-PROFILE.html)"
     },
     {
       "id": 5,
@@ -54,7 +58,8 @@
         "One-time project",
         "Purely technical"
       ],
-      "answer": "Continuous and iterative"
+      "answer": "Continuous and iterative",
+      "source": "URBAN AND REGIONAL PLANNING (01-URBAN-AND-REGIONAL-PLANNING.html)"
     },
     {
       "id": 6,
@@ -65,7 +70,8 @@
         "Gentrification",
         "Decentralization"
       ],
-      "answer": "Ecological succession"
+      "answer": "Ecological succession",
+      "source": "HISTORICAL DEVELOPMENT FROM ANCIENT PERIOD TO 1700S (10-HISTORICAL-DEVELOPMENT-FROM-ANCIENT-PERIOD-TO-1700S.html)"
     },
     {
       "id": 7,
@@ -76,7 +82,8 @@
         "Carrying capacity",
         "Human adaptation"
       ],
-      "answer": "Segregation and concentration"
+      "answer": "Segregation and concentration",
+      "source": "CONCENTRIC ZONE THEORY (05-CONCENTRIC-ZONE-THEORY.html)"
     },
     {
       "id": 8,
@@ -87,7 +94,8 @@
         "The Sector Model",
         "Garden City principles"
       ],
-      "answer": "Ecological succession in human settlements"
+      "answer": "Ecological succession in human settlements",
+      "source": "LAND USE AND PHYSICAL PLANNING (13-LAND-USE-AND-PHYSICAL-PLANNING.html)"
     },
     {
       "id": 9,
@@ -98,7 +106,8 @@
         "Agricultural systems only",
         "Marine environments"
       ],
-      "answer": "Human communities and their spatial organization"
+      "answer": "Human communities and their spatial organization",
+      "source": "WATERSHED MANAGEMENT PLANNING (14-WATERSHED-MANAGEMENT-PLANNING.html)"
     },
     {
       "id": 10,
@@ -109,7 +118,8 @@
         "Economic development",
         "Transportation planning"
       ],
-      "answer": "Human settlements"
+      "answer": "Human settlements",
+      "source": "EKISTICS (03-EKISTICS.html)"
     },
     {
       "id": 11,
@@ -120,7 +130,8 @@
         "Population, Housing, Transport, Economy, Environment",
         "Housing, Commerce, Industry, Recreation, Government"
       ],
-      "answer": "Nature, Man, Society, Shells, Networks"
+      "answer": "Nature, Man, Society, Shells, Networks",
+      "source": "EKISTICS (03-EKISTICS.html)"
     },
     {
       "id": 12,
@@ -131,7 +142,8 @@
         "Communication networks",
         "Social structures"
       ],
-      "answer": "Buildings and physical structures within a settlement"
+      "answer": "Buildings and physical structures within a settlement",
+      "source": "EKISTICS (03-EKISTICS.html)"
     },
     {
       "id": 13,
@@ -142,7 +154,8 @@
         "Only village to city",
         "Only urban to rural"
       ],
-      "answer": "15 scale levels from individual dwelling to entire human settlement system"
+      "answer": "15 scale levels from individual dwelling to entire human settlement system",
+      "source": "EKISTICS (03-EKISTICS.html)"
     },
     {
       "id": 14,
@@ -153,7 +166,8 @@
         "Economy, politics, culture, and technology",
         "Land, water, air, and biodiversity"
       ],
-      "answer": "Nature, Man, Society, Shells, and Networks"
+      "answer": "Nature, Man, Society, Shells, and Networks",
+      "source": "EKISTICS (03-EKISTICS.html)"
     },
     {
       "id": 15,
@@ -164,7 +178,8 @@
         "Barangay market center",
         "Municipal center with public market"
       ],
-      "answer": "Regional capital with specialized hospitals and universities"
+      "answer": "Regional capital with specialized hospitals and universities",
+      "source": "CENTRAL PLACE THEORY (04-CENTRAL-PLACE-THEORY.html)"
     },
     {
       "id": 16,
@@ -175,7 +190,8 @@
         "Government policy dictates minimum distances",
         "Geographic barriers force wider spacing"
       ],
-      "answer": "Higher-order settlements require a larger threshold population for specialized functions"
+      "answer": "Higher-order settlements require a larger threshold population for specialized functions",
+      "source": "LAND USE AND PHYSICAL PLANNING (13-LAND-USE-AND-PHYSICAL-PLANNING.html)"
     },
     {
       "id": 17,
@@ -186,7 +202,8 @@
         "Should build it to attract people",
         "Can support it with subsidies"
       ],
-      "answer": "Cannot support it; residents must travel to a higher-order settlement"
+      "answer": "Cannot support it; residents must travel to a higher-order settlement",
+      "source": "CLIMATE AND DISASTER RISK ASSESSMENT AND POST DISASTER REHABILITATION AND RECOVERY PLANNING (17-CLIMATE-AND-DISASTER-RISK-ASSESSMENT-AND-POST-DISASTER-REHABILITATION-AND-RECOVERY-PLANNING.html)"
     },
     {
       "id": 18,
@@ -197,7 +214,8 @@
         "Philippines",
         "Ancient Greece"
       ],
-      "answer": "Southern Germany"
+      "answer": "Southern Germany",
+      "source": "CENTRAL PLACE THEORY (04-CENTRAL-PLACE-THEORY.html)"
     },
     {
       "id": 19,
@@ -208,7 +226,8 @@
         "Zone of Workingmen's Homes",
         "Residential Zone"
       ],
-      "answer": "Zone of Transition"
+      "answer": "Zone of Transition",
+      "source": "CONCENTRIC ZONE THEORY (05-CONCENTRIC-ZONE-THEORY.html)"
     },
     {
       "id": 20,
@@ -219,7 +238,8 @@
         "Informal settler areas",
         "Industrial zones"
       ],
-      "answer": "Suburban municipalities and bedroom communities"
+      "answer": "Suburban municipalities and bedroom communities",
+      "source": "CONCENTRIC ZONE THEORY (05-CONCENTRIC-ZONE-THEORY.html)"
     },
     {
       "id": 21,
@@ -230,7 +250,8 @@
         "Accounts for multiple centers",
         "Overemphasizes transportation corridors"
       ],
-      "answer": "Assumes uniform land and transportation in all directions, ignoring physical barriers"
+      "answer": "Assumes uniform land and transportation in all directions, ignoring physical barriers",
+      "source": "CONCENTRIC ZONE THEORY (05-CONCENTRIC-ZONE-THEORY.html)"
     },
     {
       "id": 22,
@@ -241,7 +262,8 @@
         "Multiple independent nuclei",
         "Random patterns"
       ],
-      "answer": "Transportation routes creating corridors of similar land use"
+      "answer": "Transportation routes creating corridors of similar land use",
+      "source": "CONCENTRIC ZONE THEORY (05-CONCENTRIC-ZONE-THEORY.html)"
     },
     {
       "id": 23,
@@ -252,7 +274,8 @@
         "Multi-Nuclei Model",
         "Central Place Theory"
       ],
-      "answer": "Sector Model"
+      "answer": "Sector Model",
+      "source": "MULTI NUCLEI MODEL (07-MULTI-NUCLEI-MODEL.html)"
     },
     {
       "id": 24,
@@ -263,7 +286,8 @@
         "Government zoning",
         "Concentric CBD expansion"
       ],
-      "answer": "Transportation corridors creating axial development patterns"
+      "answer": "Transportation corridors creating axial development patterns",
+      "source": "CONCENTRIC ZONE THEORY (05-CONCENTRIC-ZONE-THEORY.html)"
     },
     {
       "id": 25,
@@ -274,7 +298,8 @@
         "Government policy creates multiple centers",
         "Population density forces dispersal"
       ],
-      "answer": "Certain land uses need specialized facilities that cluster in separate locations"
+      "answer": "Certain land uses need specialized facilities that cluster in separate locations",
+      "source": "MULTI NUCLEI MODEL (07-MULTI-NUCLEI-MODEL.html)"
     },
     {
       "id": 26,
@@ -285,7 +310,8 @@
         "Government mandates mixed-income areas",
         "Transportation only connects these areas"
       ],
-      "answer": "Both need inexpensive land, and industry attracts workers needing nearby affordable housing"
+      "answer": "Both need inexpensive land, and industry attracts workers needing nearby affordable housing",
+      "source": "RESOURCE USE AND DEVELOPMENT (13-RESOURCE-USE-AND-DEVELOPMENT.html)"
     },
     {
       "id": 27,
@@ -296,7 +322,8 @@
         "A uniformly developed city",
         "Exclusively residential suburbs"
       ],
-      "answer": "A business district in Makati, a government center in Manila, and a port area in Manila Bay"
+      "answer": "A business district in Makati, a government center in Manila, and a port area in Manila Bay",
+      "source": "MULTI NUCLEI MODEL (07-MULTI-NUCLEI-MODEL.html)"
     },
     {
       "id": 28,
@@ -307,7 +334,8 @@
         "Ranching",
         "Forestry"
       ],
-      "answer": "Intensive market gardening and dairy"
+      "answer": "Intensive market gardening and dairy",
+      "source": "THEORY OF AGRICULTURAL LOCATION (08-THEORY-OF-AGRICULTURAL-LOCATION.html)"
     },
     {
       "id": 29,
@@ -318,7 +346,8 @@
         "Government incentives",
         "Soil quality"
       ],
-      "answer": "Transportation cost to market"
+      "answer": "Transportation cost to market",
+      "source": "CENTRAL PLACE THEORY (04-CENTRAL-PLACE-THEORY.html)"
     },
     {
       "id": 30,
@@ -329,7 +358,8 @@
         "More diversified",
         "Unaffected"
       ],
-      "answer": "Less intensive and more extensive"
+      "answer": "Less intensive and more extensive",
+      "source": "THEORY OF AGRICULTURAL LOCATION (08-THEORY-OF-AGRICULTURAL-LOCATION.html)"
     },
     {
       "id": 31,
@@ -340,7 +370,8 @@
         "Raw materials, energy, and taxes",
         "Rent, wages, and utilities"
       ],
-      "answer": "Transportation, labor, and agglomeration"
+      "answer": "Transportation, labor, and agglomeration",
+      "source": "THEORY OF AGRICULTURAL LOCATION (08-THEORY-OF-AGRICULTURAL-LOCATION.html)"
     },
     {
       "id": 32,
@@ -351,17 +382,20 @@
         "Near skilled labor",
         "In low-tax areas"
       ],
-      "answer": "Near the market"
+      "answer": "Near the market",
+      "source": "URBAN AND REGIONAL PLANNING (01-URBAN-AND-REGIONAL-PLANNING.html)"
     },
     {
       "id": 33,
       "question": "Weber's concept of agglomeration refers to:",
-      "choices": "The clustering of industries to share infrastructure, services, and labor pools, reducing costs",
-      "answer": [
+      "choices": [
+        "The clustering of industries to share infrastructure, services, and labor pools, reducing costs",
         "Dispersal of industries",
         "Government subsidies",
         "Transport optimization"
-      ]
+      ],
+      "answer": "The clustering of industries to share infrastructure, services, and labor pools, reducing costs",
+      "source": "THEORY OF AGRICULTURAL LOCATION (08-THEORY-OF-AGRICULTURAL-LOCATION.html)"
     },
     {
       "id": 34,
@@ -372,7 +406,8 @@
         "Only military planning",
         "Exclusively religious structures"
       ],
-      "answer": "Advanced drainage, grid layouts, and public wells"
+      "answer": "Advanced drainage, grid layouts, and public wells",
+      "source": "HISTORICAL DEVELOPMENT FROM ANCIENT PERIOD TO 1700S (10-HISTORICAL-DEVELOPMENT-FROM-ANCIENT-PERIOD-TO-1700S.html)"
     },
     {
       "id": 35,
@@ -383,7 +418,8 @@
         "Irregular organic streets",
         "Fortress walls only"
       ],
-      "answer": "A grid system with designated public spaces"
+      "answer": "A grid system with designated public spaces",
+      "source": "HISTORICAL DEVELOPMENT FROM ANCIENT PERIOD TO 1700S (10-HISTORICAL-DEVELOPMENT-FROM-ANCIENT-PERIOD-TO-1700S.html)"
     },
     {
       "id": 36,
@@ -394,7 +430,8 @@
         "Industrial layouts",
         "Religious temple complexes"
       ],
-      "answer": "Geometric order, radial patterns, and monumental public spaces"
+      "answer": "Geometric order, radial patterns, and monumental public spaces",
+      "source": "HISTORICAL DEVELOPMENT FROM ANCIENT PERIOD TO 1700S (10-HISTORICAL-DEVELOPMENT-FROM-ANCIENT-PERIOD-TO-1700S.html)"
     },
     {
       "id": 37,
@@ -405,17 +442,20 @@
         "Agricultural efficiency",
         "Industrial needs"
       ],
-      "answer": "Papal authority, civic pride, and humanist ideals"
+      "answer": "Papal authority, civic pride, and humanist ideals",
+      "source": "HISTORICAL DEVELOPMENT FROM ANCIENT PERIOD TO 1700S (10-HISTORICAL-DEVELOPMENT-FROM-ANCIENT-PERIOD-TO-1700S.html)"
     },
     {
       "id": 38,
       "question": "Ancient Greek city planning emphasized:",
-      "choices": "The integration of public spaces (agora), civic institutions, and defensive planning",
-      "answer": [
+      "choices": [
+        "The integration of public spaces (agora), civic institutions, and defensive planning",
         "Only religious temples",
         "Commercial districts only",
         "Military fortifications only"
-      ]
+      ],
+      "answer": "The integration of public spaces (agora), civic institutions, and defensive planning",
+      "source": "HISTORICAL DEVELOPMENT FROM ANCIENT PERIOD TO 1700S (10-HISTORICAL-DEVELOPMENT-FROM-ANCIENT-PERIOD-TO-1700S.html)"
     },
     {
       "id": 39,
@@ -426,7 +466,8 @@
         "Insufficient parks",
         "Excessive building heights"
       ],
-      "answer": "Overcrowding, poor sanitation, and disease in rapidly growing industrial cities"
+      "answer": "Overcrowding, poor sanitation, and disease in rapidly growing industrial cities",
+      "source": "CONCENTRIC ZONE THEORY (05-CONCENTRIC-ZONE-THEORY.html)"
     },
     {
       "id": 40,
@@ -437,7 +478,8 @@
         "Monumental boulevards only",
         "Linear industrial corridors"
       ],
-      "answer": "Self-contained communities with greenbelts balancing housing and employment"
+      "answer": "Self-contained communities with greenbelts balancing housing and employment",
+      "source": "HISTORICAL DEVELOPMENT FROM INDUSTRIAL REVOLUTION TO CONTEMPORARY PLANNING THOUGHT (11-HISTORICAL-DEVELOPMENT-FROM-INDUSTRIAL-REVOLUTION-TO-CONTEMPORARY-PLANNING-THOUGHT.html)"
     },
     {
       "id": 41,
@@ -448,7 +490,8 @@
         "Decentralization to suburbs",
         "Industrial efficiency"
       ],
-      "answer": "Monumental architecture, grand boulevards, and civic centers"
+      "answer": "Monumental architecture, grand boulevards, and civic centers",
+      "source": "HISTORICAL DEVELOPMENT FROM INDUSTRIAL REVOLUTION TO CONTEMPORARY PLANNING THOUGHT (11-HISTORICAL-DEVELOPMENT-FROM-INDUSTRIAL-REVOLUTION-TO-CONTEMPORARY-PLANNING-THOUGHT.html)"
     },
     {
       "id": 42,
@@ -459,7 +502,8 @@
         "Monumental design",
         "Private property exclusively"
       ],
-      "answer": "Social equity, environmental sustainability, and public participation"
+      "answer": "Social equity, environmental sustainability, and public participation",
+      "source": "CONCENTRIC ZONE THEORY (05-CONCENTRIC-ZONE-THEORY.html)"
     },
     {
       "id": 43,
@@ -470,7 +514,8 @@
         "Medieval European patterns",
         "Japanese garden concepts"
       ],
-      "answer": "City Beautiful movement (civic centers, parks, government buildings)"
+      "answer": "City Beautiful movement (civic centers, parks, government buildings)",
+      "source": "HISTORICAL DEVELOPMENT FROM ANCIENT PERIOD TO 1700S (10-HISTORICAL-DEVELOPMENT-FROM-ANCIENT-PERIOD-TO-1700S.html)"
     },
     {
       "id": 44,
@@ -481,7 +526,8 @@
         "Secure funding",
         "Public consultation"
       ],
-      "answer": "Generate and evaluate alternative strategies"
+      "answer": "Generate and evaluate alternative strategies",
+      "source": "URBAN AND REGIONAL PLANNING (01-URBAN-AND-REGIONAL-PLANNING.html)"
     },
     {
       "id": 45,
@@ -492,7 +538,8 @@
         "Write a new plan from scratch",
         "Wait 20 years before reviewing"
       ],
-      "answer": "Monitor whether outcomes match goals and adjust as needed"
+      "answer": "Monitor whether outcomes match goals and adjust as needed",
+      "source": "URBAN AND REGIONAL PLANNING (01-URBAN-AND-REGIONAL-PLANNING.html)"
     },
     {
       "id": 46,
@@ -503,7 +550,8 @@
         "Past, present, and future",
         "Urban, suburban, and rural"
       ],
-      "answer": "Government, market, and civil society in urban development"
+      "answer": "Government, market, and civil society in urban development",
+      "source": "URBAN AND REGIONAL PLANNING (01-URBAN-AND-REGIONAL-PLANNING.html)"
     },
     {
       "id": 47,
@@ -514,7 +562,8 @@
         "Be prepared before the CLUP",
         "Remain separate from the CLUP"
       ],
-      "answer": "Translate CLUP policies into legally enforceable regulations on permitted uses and densities"
+      "answer": "Translate CLUP policies into legally enforceable regulations on permitted uses and densities",
+      "source": "PLANNING INSTITUTIONS IN THE PHILIPPINES (20-PLANNING-INSTITUTIONS-IN-THE-PHILIPPINES.html)"
     },
     {
       "id": 48,
@@ -525,7 +574,8 @@
         "Commercial zone",
         "Industrial"
       ],
-      "answer": "Protected area or conservation zone"
+      "answer": "Protected area or conservation zone",
+      "source": "WATERSHED MANAGEMENT PLANNING (14-WATERSHED-MANAGEMENT-PLANNING.html)"
     },
     {
       "id": 49,
@@ -536,7 +586,8 @@
         "No zoning needed",
         "Mixed-use high-density"
       ],
-      "answer": "Low-density with infrastructure limitations as justification"
+      "answer": "Low-density with infrastructure limitations as justification",
+      "source": "LAND USE AND PHYSICAL PLANNING (13-LAND-USE-AND-PHYSICAL-PLANNING.html)"
     },
     {
       "id": 50,
@@ -547,7 +598,8 @@
         "Modernist Planning",
         "New Urbanism"
       ],
-      "answer": "Garden City Movement (Howard)"
+      "answer": "Garden City Movement (Howard)",
+      "source": "WATERSHED MANAGEMENT PLANNING (14-WATERSHED-MANAGEMENT-PLANNING.html)"
     },
     {
       "id": 51,
@@ -558,7 +610,8 @@
         "Single-use zoning",
         "Exclusive residential development"
       ],
-      "answer": "Walkable neighborhoods with a mix of uses reducing car dependency"
+      "answer": "Walkable neighborhoods with a mix of uses reducing car dependency",
+      "source": "CONCENTRIC ZONE THEORY (05-CONCENTRIC-ZONE-THEORY.html)"
     },
     {
       "id": 52,
@@ -569,7 +622,8 @@
         "Financial resources",
         "Human resources"
       ],
-      "answer": "Renewable resources where use must not exceed regeneration capacity"
+      "answer": "Renewable resources where use must not exceed regeneration capacity",
+      "source": "MULTI NUCLEI MODEL (07-MULTI-NUCLEI-MODEL.html)"
     },
     {
       "id": 53,
@@ -580,7 +634,8 @@
         "Allocating to highest bidder",
         "Reserving everything for the future"
       ],
-      "answer": "Distributing resources among competing uses to maximize long-term public benefit"
+      "answer": "Distributing resources among competing uses to maximize long-term public benefit",
+      "source": "URBAN AND REGIONAL PLANNING (01-URBAN-AND-REGIONAL-PLANNING.html)"
     },
     {
       "id": 54,
@@ -591,7 +646,8 @@
         "Ignore the finding",
         "Relocate the city"
       ],
-      "answer": "Implement groundwater regulation, limit extraction, promote conservation and rainwater harvesting"
+      "answer": "Implement groundwater regulation, limit extraction, promote conservation and rainwater harvesting",
+      "source": "RESOURCE USE AND DEVELOPMENT (13-RESOURCE-USE-AND-DEVELOPMENT.html)"
     },
     {
       "id": 55,
@@ -602,7 +658,8 @@
         "Support unlimited development",
         "Close the island"
       ],
-      "answer": "Limit tourist arrivals and plan infrastructure within ecological limits"
+      "answer": "Limit tourist arrivals and plan infrastructure within ecological limits",
+      "source": "DOCUMENTING THE CITY ECOLOGICAL PROFILE (19-DOCUMENTING-THE-CITY-ECOLOGICAL-PROFILE.html)"
     },
     {
       "id": 56,
@@ -613,7 +670,8 @@
         "Construct more drainage",
         "Relocate downstream communities"
       ],
-      "answer": "Implement reforestation and soil conservation in uplands"
+      "answer": "Implement reforestation and soil conservation in uplands",
+      "source": "WATERSHED MANAGEMENT PLANNING (14-WATERSHED-MANAGEMENT-PLANNING.html)"
     },
     {
       "id": 57,
@@ -624,7 +682,8 @@
         "Production zone for timber",
         "Industrial zone"
       ],
-      "answer": "Protection zone with restricted use"
+      "answer": "Protection zone with restricted use",
+      "source": "WATERSHED MANAGEMENT PLANNING (14-WATERSHED-MANAGEMENT-PLANNING.html)"
     },
     {
       "id": 58,
@@ -635,7 +694,8 @@
         "Separate uncoordinated agency actions",
         "Exclusive hydropower focus"
       ],
-      "answer": "Integrated watershed management considering all functions and stakeholders"
+      "answer": "Integrated watershed management considering all functions and stakeholders",
+      "source": "CLIMATE AND DISASTER RISK ASSESSMENT AND POST DISASTER REHABILITATION AND RECOVERY PLANNING (17-CLIMATE-AND-DISASTER-RISK-ASSESSMENT-AND-POST-DISASTER-REHABILITATION-AND-RECOVERY-PLANNING.html)"
     },
     {
       "id": 59,
@@ -646,7 +706,8 @@
         "Building higher dams",
         "Relocating the reservoir"
       ],
-      "answer": "Soil conservation and riparian buffers in upland farms"
+      "answer": "Soil conservation and riparian buffers in upland farms",
+      "source": "RESOURCE USE AND DEVELOPMENT (13-RESOURCE-USE-AND-DEVELOPMENT.html)"
     },
     {
       "id": 60,
@@ -657,7 +718,8 @@
         "Land use revision",
         "Public consultation"
       ],
-      "answer": "Damage and Needs Assessment"
+      "answer": "Damage and Needs Assessment",
+      "source": "CLIMATE AND DISASTER RISK ASSESSMENT AND POST DISASTER REHABILITATION AND RECOVERY PLANNING (17-CLIMATE-AND-DISASTER-RISK-ASSESSMENT-AND-POST-DISASTER-REHABILITATION-AND-RECOVERY-PLANNING.html)"
     },
     {
       "id": 61,
@@ -668,7 +730,8 @@
         "Infrastructure",
         "Livelihoods"
       ],
-      "answer": "Social services and public facilities"
+      "answer": "Social services and public facilities",
+      "source": "CLIMATE AND DISASTER RISK ASSESSMENT AND POST DISASTER REHABILITATION AND RECOVERY PLANNING (17-CLIMATE-AND-DISASTER-RISK-ASSESSMENT-AND-POST-DISASTER-REHABILITATION-AND-RECOVERY-PLANNING.html)"
     },
     {
       "id": 62,
@@ -679,7 +742,8 @@
         "Relocate everyone",
         "Focus only on infrastructure"
       ],
-      "answer": "Improve resilience, safety, and living standards through better design"
+      "answer": "Improve resilience, safety, and living standards through better design",
+      "source": "CLIMATE AND DISASTER RISK ASSESSMENT AND POST DISASTER REHABILITATION AND RECOVERY PLANNING (17-CLIMATE-AND-DISASTER-RISK-ASSESSMENT-AND-POST-DISASTER-REHABILITATION-AND-RECOVERY-PLANNING.html)"
     },
     {
       "id": 63,
@@ -690,7 +754,8 @@
         "Livelihoods and local economy",
         "Social services"
       ],
-      "answer": "Livelihoods and local economy"
+      "answer": "Livelihoods and local economy",
+      "source": "CLIMATE AND DISASTER RISK ASSESSMENT AND POST DISASTER REHABILITATION AND RECOVERY PLANNING (17-CLIMATE-AND-DISASTER-RISK-ASSESSMENT-AND-POST-DISASTER-REHABILITATION-AND-RECOVERY-PLANNING.html)"
     },
     {
       "id": 64,
@@ -701,7 +766,8 @@
         "Hard engineering",
         "Retrofitting"
       ],
-      "answer": "Nature-based solutions for disaster risk reduction"
+      "answer": "Nature-based solutions for disaster risk reduction",
+      "source": "RESOURCE USE AND DEVELOPMENT (13-RESOURCE-USE-AND-DEVELOPMENT.html)"
     },
     {
       "id": 65,
@@ -712,7 +778,8 @@
         "Aid pledged",
         "News articles published"
       ],
-      "answer": "Houses rebuilt and compliance with safety standards"
+      "answer": "Houses rebuilt and compliance with safety standards",
+      "source": "CLIMATE AND DISASTER RISK ASSESSMENT AND POST DISASTER REHABILITATION AND RECOVERY PLANNING (17-CLIMATE-AND-DISASTER-RISK-ASSESSMENT-AND-POST-DISASTER-REHABILITATION-AND-RECOVERY-PLANNING.html)"
     },
     {
       "id": 66,
@@ -723,7 +790,8 @@
         "Request national funding",
         "Relocate everyone immediately"
       ],
-      "answer": "Conduct risk assessment identifying hazards and vulnerabilities"
+      "answer": "Conduct risk assessment identifying hazards and vulnerabilities",
+      "source": "CLIMATE AND DISASTER RISK ASSESSMENT AND POST DISASTER REHABILITATION AND RECOVERY PLANNING (17-CLIMATE-AND-DISASTER-RISK-ASSESSMENT-AND-POST-DISASTER-REHABILITATION-AND-RECOVERY-PLANNING.html)"
     },
     {
       "id": 67,
@@ -734,7 +802,8 @@
         "Economic growth rate",
         "Population density alone"
       ],
-      "answer": "Environmental quality and carrying capacity"
+      "answer": "Environmental quality and carrying capacity",
+      "source": "DOCUMENTING THE CITY ECOLOGICAL PROFILE (19-DOCUMENTING-THE-CITY-ECOLOGICAL-PROFILE.html)"
     },
     {
       "id": 68,
@@ -745,7 +814,8 @@
         "Prepare project EIS",
         "Identify risks and constraints"
       ],
-      "answer": "Prepare project EIS"
+      "answer": "Prepare project EIS",
+      "source": "CLIMATE AND DISASTER RISK ASSESSMENT AND POST DISASTER REHABILITATION AND RECOVERY PLANNING (17-CLIMATE-AND-DISASTER-RISK-ASSESSMENT-AND-POST-DISASTER-REHABILITATION-AND-RECOVERY-PLANNING.html)"
     },
     {
       "id": 69,
@@ -756,7 +826,8 @@
         "Economic activities",
         "Government policies"
       ],
-      "answer": "Landform, slope, soil, geology, climate, hydrology, and vegetation"
+      "answer": "Landform, slope, soil, geology, climate, hydrology, and vegetation",
+      "source": "DOCUMENTING THE CITY ECOLOGICAL PROFILE (19-DOCUMENTING-THE-CITY-ECOLOGICAL-PROFILE.html)"
     },
     {
       "id": 70,
@@ -767,7 +838,8 @@
         "Computer-only modeling",
         "Government data only"
       ],
-      "answer": "Communities identifying flood paths, resource areas, and hazard zones"
+      "answer": "Communities identifying flood paths, resource areas, and hazard zones",
+      "source": "DOCUMENTING THE CITY ECOLOGICAL PROFILE (19-DOCUMENTING-THE-CITY-ECOLOGICAL-PROFILE.html)"
     },
     {
       "id": 71,
@@ -778,7 +850,8 @@
         "Abandon the process",
         "Use only the recent data"
       ],
-      "answer": "Conduct field validation to verify secondary data"
+      "answer": "Conduct field validation to verify secondary data",
+      "source": "DOCUMENTING THE CITY ECOLOGICAL PROFILE (19-DOCUMENTING-THE-CITY-ECOLOGICAL-PROFILE.html)"
     },
     {
       "id": 72,
@@ -789,7 +862,8 @@
         "Environmental management",
         "Housing policy"
       ],
-      "answer": "Economic and development planning including policy integration and investment prioritization"
+      "answer": "Economic and development planning including policy integration and investment prioritization",
+      "source": "PLANNING INSTITUTIONS IN THE PHILIPPINES (20-PLANNING-INSTITUTIONS-IN-THE-PHILIPPINES.html)"
     },
     {
       "id": 73,
@@ -800,7 +874,8 @@
         "Environmental regulation",
         "Infrastructure projects"
       ],
-      "answer": "Human settlements, urban development, and land use planning"
+      "answer": "Human settlements, urban development, and land use planning",
+      "source": "PLANNING INSTITUTIONS IN THE PHILIPPINES (20-PLANNING-INSTITUTIONS-IN-THE-PHILIPPINES.html)"
     },
     {
       "id": 74,
@@ -811,7 +886,8 @@
         "Excessive local autonomy",
         "Lack of planning laws"
       ],
-      "answer": "Fragmentation of functions across multiple agencies causing overlaps and conflicts"
+      "answer": "Fragmentation of functions across multiple agencies causing overlaps and conflicts",
+      "source": "WATERSHED MANAGEMENT PLANNING (14-WATERSHED-MANAGEMENT-PLANNING.html)"
     },
     {
       "id": 75,
@@ -822,7 +898,8 @@
         "Too many planners exist",
         "Community participation is excessive"
       ],
-      "answer": "Plans are outdated, weakly enforced, or not synchronized with budgets"
+      "answer": "Plans are outdated, weakly enforced, or not synchronized with budgets",
+      "source": "LAND USE AND PHYSICAL PLANNING (13-LAND-USE-AND-PHYSICAL-PLANNING.html)"
     },
     {
       "id": 76,
@@ -833,7 +910,8 @@
         "Avoiding community input",
         "Speeding up construction"
       ],
-      "answer": "Bridging planning and implementation"
+      "answer": "Bridging planning and implementation",
+      "source": "PLANNING PROCESS (12-PLANNING-PROCESS.html)"
     },
     {
       "id": 77,
@@ -844,7 +922,8 @@
         "Mayor only",
         "National government only"
       ],
-      "answer": "Planning office, development council, and legislative body"
+      "answer": "Planning office, development council, and legislative body",
+      "source": "PLANNING INSTITUTIONS IN THE PHILIPPINES (20-PLANNING-INSTITUTIONS-IN-THE-PHILIPPINES.html)"
     },
     {
       "id": 78,
@@ -855,7 +934,8 @@
         "Architectural style standards",
         "Property tax rates"
       ],
-      "answer": "Minimum requirements for planning, design, construction, occupancy, and maintenance"
+      "answer": "Minimum requirements for planning, design, construction, occupancy, and maintenance",
+      "source": "PLANNING PROCESS (12-PLANNING-PROCESS.html)"
     },
     {
       "id": 79,
@@ -866,7 +946,8 @@
         "Right of way",
         "Taxation"
       ],
-      "answer": "Police power inherent to the state for regulating land use for public welfare"
+      "answer": "Police power inherent to the state for regulating land use for public welfare",
+      "source": "LEGAL CONSIDERATIONS (21-LEGAL-CONSIDERATIONS.html)"
     },
     {
       "id": 80,
@@ -877,7 +958,8 @@
         "Maximum floor area",
         "Green building certification"
       ],
-      "answer": "Buildings designed for persons with disabilities"
+      "answer": "Buildings designed for persons with disabilities",
+      "source": "HUMAN ECOLOGY (1) (02-HUMAN-ECOLOGY (1).html)"
     },
     {
       "id": 81,
@@ -888,7 +970,8 @@
         "The owner demands it",
         "The project is large"
       ],
-      "answer": "The minimum deviation needed for reasonable property use without harming public welfare"
+      "answer": "The minimum deviation needed for reasonable property use without harming public welfare",
+      "source": "LEGAL CONSIDERATIONS (21-LEGAL-CONSIDERATIONS.html)"
     },
     {
       "id": 82,
@@ -899,7 +982,8 @@
         "Eliminating buyer rights",
         "Requiring government purchase of unsold lots"
       ],
-      "answer": "Ensuring transparency and regulating development standards with remedies for fraud"
+      "answer": "Ensuring transparency and regulating development standards with remedies for fraud",
+      "source": "WATERSHED MANAGEMENT PLANNING (14-WATERSHED-MANAGEMENT-PLANNING.html)"
     },
     {
       "id": 83,
@@ -910,7 +994,8 @@
         "1946-1972",
         "1986-1987"
       ],
-      "answer": "1972-1986 under Marcos"
+      "answer": "1972-1986 under Marcos",
+      "source": "LEGAL CONSIDERATIONS (21-LEGAL-CONSIDERATIONS.html)"
     },
     {
       "id": 84,
@@ -921,7 +1006,8 @@
         "A building permit requirement",
         "A financial feasibility study"
       ],
-      "answer": "A systematic process for predicting environmental consequences before construction"
+      "answer": "A systematic process for predicting environmental consequences before construction",
+      "source": "DOCUMENTING THE CITY ECOLOGICAL PROFILE (19-DOCUMENTING-THE-CITY-ECOLOGICAL-PROFILE.html)"
     },
     {
       "id": 85,
@@ -932,7 +1018,8 @@
         "All private projects",
         "Government projects only"
       ],
-      "answer": "Environmentally Critical Projects (ECPs)"
+      "answer": "Environmentally Critical Projects (ECPs)",
+      "source": "PLANNING INSTITUTIONS IN THE PHILIPPINES (20-PLANNING-INSTITUTIONS-IN-THE-PHILIPPINES.html)"
     },
     {
       "id": 86,
@@ -943,7 +1030,8 @@
         "Residential subdivision",
         "Industrial park"
       ],
-      "answer": "Mangrove area serving as coastal buffer"
+      "answer": "Mangrove area serving as coastal buffer",
+      "source": "URBAN AND REGIONAL PLANNING (01-URBAN-AND-REGIONAL-PLANNING.html)"
     },
     {
       "id": 87,
@@ -954,7 +1042,8 @@
         "RA 7160",
         "PD 1096"
       ],
-      "answer": "PD 1586"
+      "answer": "PD 1586",
+      "source": "ENVIRONMENTAL IMPACT ASSESSMENT PART 1 (22-ENVIRONMENTAL-IMPACT-ASSESSMENT-PART-1.html)"
     },
     {
       "id": 88,
@@ -965,7 +1054,8 @@
         "All projects without exception",
         "Projects in ECAs"
       ],
-      "answer": "Small-scale, low-impact projects exempt from full EIA"
+      "answer": "Small-scale, low-impact projects exempt from full EIA",
+      "source": "ENVIRONMENTAL IMPACT ASSESSMENT PART 1 (22-ENVIRONMENTAL-IMPACT-ASSESSMENT-PART-1.html)"
     },
     {
       "id": 89,
@@ -976,7 +1066,8 @@
         "Building design",
         "Taxation"
       ],
-      "answer": "Air quality, water quality, waste management, and land use"
+      "answer": "Air quality, water quality, waste management, and land use",
+      "source": "LEGAL CONSIDERATIONS (21-LEGAL-CONSIDERATIONS.html)"
     },
     {
       "id": 90,
@@ -987,7 +1078,8 @@
         "Issue the ECC",
         "Conduct post-construction monitoring"
       ],
-      "answer": "Identify key environmental issues and define study boundaries"
+      "answer": "Identify key environmental issues and define study boundaries",
+      "source": "WATERSHED MANAGEMENT PLANNING (14-WATERSHED-MANAGEMENT-PLANNING.html)"
     },
     {
       "id": 91,
@@ -998,7 +1090,8 @@
         "Cumulative impacts",
         "Residual impacts"
       ],
-      "answer": "Indirect impacts"
+      "answer": "Indirect impacts",
+      "source": "ENVIRONMENTAL IMPACT ASSESSMENT PART 2 (23-ENVIRONMENTAL-IMPACT-ASSESSMENT-PART-2.html)"
     },
     {
       "id": 92,
@@ -1009,7 +1102,8 @@
         "Cumulative impacts",
         "Residual impacts"
       ],
-      "answer": "Cumulative impacts"
+      "answer": "Cumulative impacts",
+      "source": "ENVIRONMENTAL IMPACT ASSESSMENT PART 2 (23-ENVIRONMENTAL-IMPACT-ASSESSMENT-PART-2.html)"
     },
     {
       "id": 93,
@@ -1020,7 +1114,8 @@
         "Minimization",
         "Rehabilitation"
       ],
-      "answer": "Avoidance"
+      "answer": "Avoidance",
+      "source": "HISTORICAL DEVELOPMENT FROM ANCIENT PERIOD TO 1700S (10-HISTORICAL-DEVELOPMENT-FROM-ANCIENT-PERIOD-TO-1700S.html)"
     },
     {
       "id": 94,
@@ -1031,7 +1126,8 @@
         "Financial projections",
         "Architectural design"
       ],
-      "answer": "Mitigation measures, monitoring program, schedule, and responsible parties"
+      "answer": "Mitigation measures, monitoring program, schedule, and responsible parties",
+      "source": "HISTORICAL DEVELOPMENT FROM ANCIENT PERIOD TO 1700S (10-HISTORICAL-DEVELOPMENT-FROM-ANCIENT-PERIOD-TO-1700S.html)"
     },
     {
       "id": 95,
@@ -1042,7 +1138,8 @@
         "Geological impact",
         "Aesthetic impact"
       ],
-      "answer": "Socio-economic impact"
+      "answer": "Socio-economic impact",
+      "source": "ENVIRONMENTAL IMPACT ASSESSMENT PART 2 (23-ENVIRONMENTAL-IMPACT-ASSESSMENT-PART-2.html)"
     },
     {
       "id": 96,
@@ -1053,7 +1150,8 @@
         "LGU only",
         "Community"
       ],
-      "answer": "The project proponent subject to DENR-EMB monitoring"
+      "answer": "The project proponent subject to DENR-EMB monitoring",
+      "source": "ENVIRONMENTAL IMPACT ASSESSMENT PART 1 (22-ENVIRONMENTAL-IMPACT-ASSESSMENT-PART-1.html)"
     },
     {
       "id": 97,
@@ -1064,7 +1162,8 @@
         "Large and populous",
         "Technologically advanced"
       ],
-      "answer": "Inclusive, safe, resilient, and sustainable"
+      "answer": "Inclusive, safe, resilient, and sustainable",
+      "source": "LAND USE AND PHYSICAL PLANNING (13-LAND-USE-AND-PHYSICAL-PLANNING.html)"
     },
     {
       "id": 98,
@@ -1075,7 +1174,8 @@
         "Road width",
         "Population density"
       ],
-      "answer": "Air quality and waste management"
+      "answer": "Air quality and waste management",
+      "source": "MULTI NUCLEI MODEL (07-MULTI-NUCLEI-MODEL.html)"
     },
     {
       "id": 99,
@@ -1086,7 +1186,8 @@
         "Privatizing public spaces",
         "Building toll roads"
       ],
-      "answer": "Upgrading informal settlements with basic services and secure tenure"
+      "answer": "Upgrading informal settlements with basic services and secure tenure",
+      "source": "SUSTAINABLE DEVELOPMENT GOALS RELATED TO URBAN AND REGIONAL PLANNING (24-SUSTAINABLE-DEVELOPMENT-GOALS-RELATED-TO-URBAN-AND-REGIONAL-PLANNING.html)"
     },
     {
       "id": 100,
@@ -1097,7 +1198,8 @@
         "Poor districts are ignored",
         "Services are privatized"
       ],
-      "answer": "Public facilities are equitably distributed across all districts"
+      "answer": "Public facilities are equitably distributed across all districts",
+      "source": "MULTI NUCLEI MODEL (07-MULTI-NUCLEI-MODEL.html)"
     },
     {
       "id": 101,
@@ -1108,7 +1210,8 @@
         "SDG 14",
         "SDG 7"
       ],
-      "answer": "SDG 11's sustainable transport target"
+      "answer": "SDG 11's sustainable transport target",
+      "source": "MULTI NUCLEI MODEL (07-MULTI-NUCLEI-MODEL.html)"
     },
     {
       "id": 102,
@@ -1119,7 +1222,8 @@
         "Private sector only",
         "International agencies only"
       ],
-      "answer": "Multi-stakeholder collaboration and community engagement"
+      "answer": "Multi-stakeholder collaboration and community engagement",
+      "source": "EKISTICS (03-EKISTICS.html)"
     }
   ]
 }
